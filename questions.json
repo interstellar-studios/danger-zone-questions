@@ -1,49 +1,142 @@
-{
-  "questions": [
-    {
-      "id": "1",
-      "text": "What is the capital of France?",
-      "category": "Geography",
-      "difficulty": "Easy",
-      "type": "Multiple Choice",
-      "options": ["Paris", "London", "Berlin", "Madrid"],
-      "correctAnswer": "Paris"
-    },
-    {
-      "id": "2",
-      "text": "Who painted the Mona Lisa?",
-      "category": "Art",
-      "difficulty": "Medium",
-      "type": "Multiple Choice",
-      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
-      "correctAnswer": "Leonardo da Vinci"
-    },
-    {
-      "id": "3",
-      "text": "What is the chemical symbol for gold?",
-      "category": "Science",
-      "difficulty": "Easy",
-      "type": "Multiple Choice",
-      "options": ["Au", "Ag", "Fe", "Cu"],
-      "correctAnswer": "Au"
-    },
-    {
-      "id": "4",
-      "text": "Which planet is known as the Red Planet?",
-      "category": "Science",
-      "difficulty": "Easy",
-      "type": "Multiple Choice",
-      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
-      "correctAnswer": "Mars"
-    },
-    {
-      "id": "5",
-      "text": "Who wrote 'Romeo and Juliet'?",
-      "category": "Literature",
-      "difficulty": "Medium",
-      "type": "Multiple Choice",
-      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
-      "correctAnswer": "William Shakespeare"
-    }
-  ]
-} 
+[
+  {
+    "question": "Name the 10 largest deserts in the world by area",
+    "answers": [
+      "Antarctic Desert",
+      "Arctic Desert",
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Patagonian Desert",
+      "Great Victoria Desert",
+      "Syrian Desert",
+      "Great Basin Desert"
+    ],
+    "dangerZone": [
+      "Thar Desert",
+      "Sonoran Desert",
+      "Chihuahuan Desert",
+      "Atacama Desert"
+    ],
+    "tags": ["geography", "deserts", "area"],
+    "source": "wikipedia",
+    "clarification": "Includes both polar and non-polar deserts, ranked by total area.",
+    "year": "2025",
+    "difficulty": 3,
+    "category": "Largest Deserts",
+    "subcategories": ["Geography", "Climate"]
+  },
+  {
+    "question": "Name the 10 highest mountains in the world above sea level",
+    "answers": [
+      "Mount Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Makalu",
+      "Cho Oyu",
+      "Dhaulagiri I",
+      "Manaslu",
+      "Nanga Parbat",
+      "Annapurna I"
+    ],
+    "dangerZone": [
+      "Gasherbrum I",
+      "Broad Peak",
+      "Shishapangma",
+      "Gasherbrum II"
+    ],
+    "tags": ["geography", "mountains", "elevation"],
+    "source": "wikipedia",
+    "clarification": "Measured by elevation above sea level.",
+    "year": "2025",
+    "difficulty": 4,
+    "category": "Highest Mountains",
+    "subcategories": ["Geography", "Topography"]
+  },
+  {
+    "question": "Name the 10 most populous countries in the world",
+    "answers": [
+      "China",
+      "India",
+      "United States",
+      "Indonesia",
+      "Pakistan",
+      "Brazil",
+      "Nigeria",
+      "Bangladesh",
+      "Russia",
+      "Mexico"
+    ],
+    "dangerZone": [
+      "Japan",
+      "Ethiopia",
+      "Philippines",
+      "Egypt"
+    ],
+    "tags": ["demographics", "countries", "population"],
+    "source": "wikipedia",
+    "clarification": "Based on latest population estimates.",
+    "year": "2025",
+    "difficulty": 2,
+    "category": "Most Populous Countries",
+    "subcategories": ["Demographics", "Geography"]
+  },
+  {
+    "question": "Name the 10 longest mountain ranges in the world",
+    "answers": [
+      "Andes",
+      "Rocky Mountains",
+      "Great Dividing Range",
+      "Transantarctic Mountains",
+      "Ural Mountains",
+      "Atlas Mountains",
+      "Alps",
+      "Himalayas",
+      "Appalachian Mountains",
+      "Scandinavian Mountains"
+    ],
+    "dangerZone": [
+      "Carpathian Mountains",
+      "Zagros Mountains",
+      "Sierra Nevada",
+      "Drakensberg Mountains"
+    ],
+    "tags": ["geography", "mountain ranges", "length"],
+    "source": "wikipedia",
+    "clarification": "Measured by total length of the range.",
+    "year": "2025",
+    "difficulty": 3,
+    "category": "Longest Mountain Ranges",
+    "subcategories": ["Geography", "Topography"]
+  },
+  {
+    "question": "Name the 10 largest islands in the world by area",
+    "answers": [
+      "Greenland",
+      "New Guinea",
+      "Borneo",
+      "Madagascar",
+      "Baffin Island",
+      "Sumatra",
+      "Honshu",
+      "Victoria Island",
+      "Great Britain",
+      "Ellesmere Island"
+    ],
+    "dangerZone": [
+      "Sulawesi",
+      "South Island (New Zealand)",
+      "Java",
+      "North Island (New Zealand)"
+    ],
+    "tags": ["geography", "islands", "area"],
+    "source": "wikipedia",
+    "clarification": "Excludes continental landmasses; ranked by total area.",
+    "year": "2025",
+    "difficulty": 3,
+    "category": "Largest Islands",
+    "subcategories": ["Geography", "Topography"]
+  }
+]
