@@ -306,5 +306,593 @@
     "difficulty": 3,
     "category": "Transport",
     "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 most streamed artists on Spotify (all-time)",
+    "answers": [
+      "Drake",
+      "Taylor Swift",
+      "The Weeknd",
+      "Bad Bunny",
+      "Ed Sheeran",
+      "Ariana Grande",
+      "Justin Bieber",
+      "Eminem",
+      "Post Malone",
+      "Billie Eilish"
+    ],
+    "dangerZone": [
+      "Kanye West",
+      "Rihanna",
+      "Coldplay",
+      "Bruno Mars"
+    ],
+    "tags": ["Music", "Streaming", "Artists"],
+    "source": "Spotify",
+    "clarification": "Based on total streams across all platforms.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Literature & Media",
+    "subcategories": ["Miscellaneous"]
+  },
+  {
+    "question": "Top 10 highest-grossing film franchises of all time",
+    "answers": [
+      "Marvel Cinematic Universe",
+      "Star Wars",
+      "Harry Potter",
+      "James Bond",
+      "Spider-Man",
+      "Fast & Furious",
+      "The Lord of the Rings",
+      "Batman",
+      "Jurassic Park",
+      "Transformers"
+    ],
+    "dangerZone": [
+      "X-Men",
+      "Pirates of the Caribbean",
+      "The Hunger Games",
+      "Mission: Impossible"
+    ],
+    "tags": ["Film", "Box Office", "Franchises"],
+    "source": "Box Office Mojo",
+    "clarification": "Based on worldwide box office revenue.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Literature & Media",
+    "subcategories": ["Miscellaneous"]
+  },
+  {
+    "question": "Top 10 most visited websites in the world",
+    "answers": [
+      "Google",
+      "YouTube",
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "Wikipedia",
+      "Amazon",
+      "Netflix",
+      "LinkedIn",
+      "Reddit"
+    ],
+    "dangerZone": [
+      "Pinterest",
+      "TikTok",
+      "WhatsApp",
+      "Yahoo"
+    ],
+    "tags": ["Internet", "Websites", "Traffic"],
+    "source": "SimilarWeb",
+    "clarification": "Based on monthly active users.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Internet",
+    "subcategories": ["Technology", "Miscellaneous"]
+  },
+  {
+    "question": "Top 10 most valuable sports teams in the world",
+    "answers": [
+      "Dallas Cowboys",
+      "New York Yankees",
+      "Golden State Warriors",
+      "Los Angeles Lakers",
+      "New England Patriots",
+      "Real Madrid",
+      "Barcelona",
+      "New York Knicks",
+      "Manchester United",
+      "Los Angeles Rams"
+    ],
+    "dangerZone": [
+      "Bayern Munich",
+      "Manchester City",
+      "New York Giants",
+      "Chicago Bears"
+    ],
+    "tags": ["Sports", "Business", "Teams"],
+    "source": "Forbes",
+    "clarification": "Based on team valuation including stadium and brand value.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Business & Economics",
+    "subcategories": ["Miscellaneous"]
+  },
+  {
+    "question": "Top 10 most common causes of death worldwide",
+    "answers": [
+      "Ischemic heart disease",
+      "Stroke",
+      "Chronic obstructive pulmonary disease",
+      "Lower respiratory infections",
+      "Neonatal conditions",
+      "Trachea, bronchus, lung cancers",
+      "Alzheimer's disease",
+      "Diarrheal diseases",
+      "Diabetes mellitus",
+      "Kidney diseases"
+    ],
+    "dangerZone": [
+      "Liver cirrhosis",
+      "Road injury",
+      "Tuberculosis",
+      "Hypertensive heart disease"
+    ],
+    "tags": ["Health", "Mortality", "Global"],
+    "source": "World Health Organization",
+    "clarification": "Based on global mortality statistics.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Diseases",
+    "subcategories": ["Miscellaneous", "Health"]
+  },
+  {
+    "question": "Top 10 most populous US states",
+    "answers": [
+      "California",
+      "Texas",
+      "Florida",
+      "New York",
+      "Pennsylvania",
+      "Illinois",
+      "Ohio",
+      "Georgia",
+      "North Carolina",
+      "Michigan"
+    ],
+    "dangerZone": [
+      "New Jersey",
+      "Virginia",
+      "Washington",
+      "Arizona"
+    ],
+    "tags": ["Geography", "US", "Population"],
+    "source": "US Census Bureau",
+    "clarification": "Based on latest population estimates.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Countries",
+    "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 most common elements in Earth's crust",
+    "answers": [
+      "Oxygen",
+      "Silicon",
+      "Aluminum",
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Magnesium",
+      "Potassium",
+      "Titanium",
+      "Hydrogen"
+    ],
+    "dangerZone": [
+      "Phosphorus",
+      "Manganese",
+      "Fluorine",
+      "Barium"
+    ],
+    "tags": ["Science", "Chemistry", "Earth"],
+    "source": "US Geological Survey",
+    "clarification": "By mass percentage in Earth's crust.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Chemistry",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common programming languages (by usage)",
+    "answers": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#",
+      "C++",
+      "PHP",
+      "TypeScript",
+      "Ruby",
+      "Swift",
+      "Go"
+    ],
+    "dangerZone": [
+      "Kotlin",
+      "Rust",
+      "Scala",
+      "Perl"
+    ],
+    "tags": ["Technology", "Programming", "Languages"],
+    "source": "Stack Overflow Developer Survey",
+    "clarification": "Based on developer usage and popularity.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Programming",
+    "subcategories": ["Technology", "Miscellaneous"]
+  },
+  {
+    "question": "Top 10 most common dog breeds in the US",
+    "answers": [
+      "Labrador Retriever",
+      "French Bulldog",
+      "Golden Retriever",
+      "German Shepherd",
+      "Poodle",
+      "Bulldog",
+      "Rottweiler",
+      "Beagle",
+      "Dachshund",
+      "German Shorthaired Pointer"
+    ],
+    "dangerZone": [
+      "Pembroke Welsh Corgi",
+      "Australian Shepherd",
+      "Yorkshire Terrier",
+      "Cavalier King Charles Spaniel"
+    ],
+    "tags": ["Animals", "Pets", "Dogs"],
+    "source": "American Kennel Club",
+    "clarification": "Based on registration statistics.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Animals",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common baby names in the UK",
+    "answers": [
+      "Olivia",
+      "Noah",
+      "Amelia",
+      "Oliver",
+      "Isla",
+      "George",
+      "Ava",
+      "Leo",
+      "Mia",
+      "Arthur"
+    ],
+    "dangerZone": [
+      "Sophia",
+      "Muhammad",
+      "Ivy",
+      "Jack"
+    ],
+    "tags": ["Names", "UK", "Demographics"],
+    "source": "Office for National Statistics",
+    "clarification": "Based on birth registration data.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Demographics",
+    "subcategories": ["Miscellaneous"]
+  },
+  {
+    "question": "Top 10 most visited tourist attractions in the world",
+    "answers": [
+      "Great Wall of China",
+      "Eiffel Tower",
+      "Colosseum",
+      "Statue of Liberty",
+      "Machu Picchu",
+      "Pyramids of Giza",
+      "Taj Mahal",
+      "Christ the Redeemer",
+      "Sydney Opera House",
+      "Angkor Wat"
+    ],
+    "dangerZone": [
+      "Petra",
+      "Acropolis",
+      "Stonehenge",
+      "Grand Canyon"
+    ],
+    "tags": ["Travel", "Tourism", "Landmarks"],
+    "source": "World Tourism Organization",
+    "clarification": "Based on annual visitor numbers.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Landmarks",
+    "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 most popular pizza toppings in the US",
+    "answers": [
+      "Pepperoni",
+      "Mushrooms",
+      "Onions",
+      "Sausage",
+      "Bacon",
+      "Extra cheese",
+      "Black olives",
+      "Green peppers",
+      "Pineapple",
+      "Spinach"
+    ],
+    "dangerZone": [
+      "Tomatoes",
+      "Ham",
+      "Jalapeños",
+      "Chicken"
+    ],
+    "tags": ["Food", "Pizza", "Toppings"],
+    "source": "National Restaurant Association",
+    "clarification": "Based on pizza order data.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Dishes",
+    "subcategories": ["Miscellaneous", "Food"]
+  },
+  {
+    "question": "Top 10 most common causes of car accidents",
+    "answers": [
+      "Distracted driving",
+      "Speeding",
+      "Drunk driving",
+      "Reckless driving",
+      "Rain",
+      "Running red lights",
+      "Night driving",
+      "Tailgating",
+      "Wrong-way driving",
+      "Teenage drivers"
+    ],
+    "dangerZone": [
+      "Design defects",
+      "Fatigue",
+      "Potholes",
+      "Animal crossings"
+    ],
+    "tags": ["Transportation", "Safety", "Accidents"],
+    "source": "National Highway Traffic Safety Administration",
+    "clarification": "Based on accident report data.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Transport",
+    "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 most common phobias",
+    "answers": [
+      "Arachnophobia",
+      "Ophidiophobia",
+      "Acrophobia",
+      "Agoraphobia",
+      "Cynophobia",
+      "Astraphobia",
+      "Claustrophobia",
+      "Mysophobia",
+      "Aerophobia",
+      "Trypophobia"
+    ],
+    "dangerZone": [
+      "Social phobia",
+      "Atychiphobia",
+      "Thanatophobia",
+      "Nosophobia"
+    ],
+    "tags": ["Psychology", "Phobias", "Mental Health"],
+    "source": "American Psychological Association",
+    "clarification": "Based on clinical diagnosis frequency.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Psychology",
+    "subcategories": ["Miscellaneous"]
+  },
+  {
+    "question": "Top 10 most common types of cancer",
+    "answers": [
+      "Breast cancer",
+      "Lung cancer",
+      "Prostate cancer",
+      "Colorectal cancer",
+      "Melanoma",
+      "Bladder cancer",
+      "Non-Hodgkin lymphoma",
+      "Kidney cancer",
+      "Endometrial cancer",
+      "Leukemia"
+    ],
+    "dangerZone": [
+      "Pancreatic cancer",
+      "Thyroid cancer",
+      "Liver cancer",
+      "Ovarian cancer"
+    ],
+    "tags": ["Health", "Cancer", "Diseases"],
+    "source": "American Cancer Society",
+    "clarification": "Based on incidence rates.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Diseases",
+    "subcategories": ["Miscellaneous", "Health"]
+  },
+  {
+    "question": "Top 10 most common types of trees in the US",
+    "answers": [
+      "Red Maple",
+      "Loblolly Pine",
+      "Douglas Fir",
+      "Quaking Aspen",
+      "Sugar Maple",
+      "Balsam Fir",
+      "Flowering Dogwood",
+      "Lodgepole Pine",
+      "White Oak",
+      "Red Oak"
+    ],
+    "dangerZone": [
+      "American Beech",
+      "Black Cherry",
+      "American Elm",
+      "Eastern White Pine"
+    ],
+    "tags": ["Nature", "Trees", "Forestry"],
+    "source": "US Forest Service",
+    "clarification": "Based on forest inventory data.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Tallest Trees",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common types of flowers",
+    "answers": [
+      "Rose",
+      "Tulip",
+      "Sunflower",
+      "Daisy",
+      "Lily",
+      "Orchid",
+      "Carnation",
+      "Hydrangea",
+      "Peony",
+      "Daffodil"
+    ],
+    "dangerZone": [
+      "Chrysanthemum",
+      "Iris",
+      "Lavender",
+      "Marigold"
+    ],
+    "tags": ["Nature", "Flowers", "Gardening"],
+    "source": "American Horticultural Society",
+    "clarification": "Based on garden popularity and sales.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Tallest Trees",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common types of birds in North America",
+    "answers": [
+      "American Robin",
+      "Northern Cardinal",
+      "Blue Jay",
+      "American Goldfinch",
+      "House Finch",
+      "Mourning Dove",
+      "Black-capped Chickadee",
+      "American Crow",
+      "European Starling",
+      "House Sparrow"
+    ],
+    "dangerZone": [
+      "Red-winged Blackbird",
+      "Common Grackle",
+      "Dark-eyed Junco",
+      "White-breasted Nuthatch"
+    ],
+    "tags": ["Nature", "Birds", "Wildlife"],
+    "source": "Cornell Lab of Ornithology",
+    "clarification": "Based on bird survey data.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Largest Animals",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common types of fish in the ocean",
+    "answers": [
+      "Anchovy",
+      "Sardine",
+      "Mackerel",
+      "Tuna",
+      "Cod",
+      "Salmon",
+      "Herring",
+      "Haddock",
+      "Pollock",
+      "Swordfish"
+    ],
+    "dangerZone": [
+      "Halibut",
+      "Flounder",
+      "Grouper",
+      "Snapper"
+    ],
+    "tags": ["Nature", "Fish", "Ocean"],
+    "source": "NOAA Fisheries",
+    "clarification": "Based on commercial fishing data.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Largest Animals",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common types of insects",
+    "answers": [
+      "Ants",
+      "Beetles",
+      "Butterflies",
+      "Moths",
+      "Bees",
+      "Wasps",
+      "Flies",
+      "Mosquitoes",
+      "Grasshoppers",
+      "Crickets"
+    ],
+    "dangerZone": [
+      "Dragonflies",
+      "Ladybugs",
+      "Cockroaches",
+      "Termites"
+    ],
+    "tags": ["Nature", "Insects", "Wildlife"],
+    "source": "Entomological Society of America",
+    "clarification": "Based on population estimates.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Largest Animals",
+    "subcategories": ["Science & Nature"]
+  },
+  {
+    "question": "Top 10 most common types of vegetables",
+    "answers": [
+      "Potato",
+      "Tomato",
+      "Onion",
+      "Carrot",
+      "Broccoli",
+      "Lettuce",
+      "Cucumber",
+      "Bell pepper",
+      "Spinach",
+      "Corn"
+    ],
+    "dangerZone": [
+      "Green beans",
+      "Peas",
+      "Cabbage",
+      "Cauliflower"
+    ],
+    "tags": ["Food", "Vegetables", "Agriculture"],
+    "source": "USDA",
+    "clarification": "Based on production and consumption data.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Business & Economics",
+    "subcategories": ["Miscellaneous"]
   }
 ]
