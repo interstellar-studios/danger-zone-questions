@@ -1,34 +1,90 @@
 [
   {
-    "question": "Name the 10 largest deserts in the world by area",
+    "question": "Top 10 most populous cities in the world (as of 2024)",
     "answers": [
-      "Antarctic Desert",
-      "Arctic Desert",
-      "Sahara Desert",
-      "Arabian Desert",
-      "Gobi Desert",
-      "Kalahari Desert",
-      "Patagonian Desert",
-      "Great Victoria Desert",
-      "Syrian Desert",
-      "Great Basin Desert"
+      "Tokyo",
+      "Delhi",
+      "Shanghai",
+      "Dhaka",
+      "São Paulo",
+      "Cairo",
+      "Mexico City",
+      "Beijing",
+      "Mumbai",
+      "Osaka"
     ],
     "dangerZone": [
-      "Thar Desert",
-      "Sonoran Desert",
-      "Chihuahuan Desert",
-      "Atacama Desert"
+      "Karachi",
+      "Chongqing",
+      "Istanbul",
+      "Buenos Aires"
     ],
-    "tags": ["geography", "deserts", "area"],
-    "source": "wikipedia",
-    "clarification": "Includes both polar and non-polar deserts, ranked by total area.",
-    "year": "2025",
+    "tags": ["Geography", "Demographics", "Cities"],
+    "source": "World Population Review",
+    "clarification": "Based on latest population estimates.",
+    "year": "2024",
     "difficulty": 3,
-    "category": "Largest Deserts",
-    "subcategories": ["Geography", "Climate"]
+    "category": "Most Populous Cities",
+    "subcategories": ["Geography & Demographics"]
   },
   {
-    "question": "Name the 10 highest mountains in the world above sea level",
+    "question": "Top 10 largest countries by land area",
+    "answers": [
+      "Russia",
+      "Canada",
+      "China",
+      "United States",
+      "Brazil",
+      "Australia",
+      "India",
+      "Argentina",
+      "Kazakhstan",
+      "Algeria"
+    ],
+    "dangerZone": [
+      "Greenland",
+      "Saudi Arabia",
+      "Mexico",
+      "Indonesia"
+    ],
+    "tags": ["Geography", "World", "Countries"],
+    "source": "World Bank",
+    "clarification": "Based on total land area including inland water bodies.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Largest Countries",
+    "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 most spoken languages in the world by total speakers",
+    "answers": [
+      "English",
+      "Mandarin Chinese",
+      "Hindi",
+      "Spanish",
+      "French",
+      "Modern Standard Arabic",
+      "Bengali",
+      "Portuguese",
+      "Russian",
+      "Urdu"
+    ],
+    "dangerZone": [
+      "Japanese",
+      "German",
+      "Punjabi",
+      "Javanese"
+    ],
+    "tags": ["Language", "World", "Communication"],
+    "source": "Ethnologue",
+    "clarification": "Based on total number of speakers including native and non-native speakers.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Language",
+    "subcategories": ["Miscellaneous"]
+  },
+  {
+    "question": "Top 10 highest mountains in the world",
     "answers": [
       "Mount Everest",
       "K2",
@@ -45,98 +101,210 @@
       "Gasherbrum I",
       "Broad Peak",
       "Shishapangma",
-      "Gasherbrum II"
+      "Gyachung Kang"
     ],
-    "tags": ["geography", "mountains", "elevation"],
-    "source": "wikipedia",
+    "tags": ["Geography", "World", "Mountains"],
+    "source": "National Geographic",
     "clarification": "Measured by elevation above sea level.",
-    "year": "2025",
-    "difficulty": 4,
-    "category": "Highest Mountains",
-    "subcategories": ["Geography", "Topography"]
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Tallest Mountains",
+    "subcategories": ["Geography & Demographics"]
   },
   {
-    "question": "Name the 10 most populous countries in the world",
+    "question": "Top 10 longest rivers in the world",
     "answers": [
-      "China",
-      "India",
-      "United States",
-      "Indonesia",
-      "Pakistan",
-      "Brazil",
-      "Nigeria",
-      "Bangladesh",
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi-Missouri",
+      "Yenisei",
+      "Yellow River",
+      "Ob-Irtysh",
+      "Parana",
+      "Congo",
+      "Amur"
+    ],
+    "dangerZone": [
+      "Mekong",
+      "Lena",
+      "Mackenzie",
+      "Niger"
+    ],
+    "tags": ["Geography", "World", "Rivers"],
+    "source": "National Geographic",
+    "clarification": "Measured by total length from source to mouth.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Longest Rivers",
+    "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 countries by incarceration rate (per 100,000 people)",
+    "answers": [
+      "USA",
+      "El Salvador",
+      "Rwanda",
+      "Turkmenistan",
+      "Cuba",
+      "Palau",
+      "Thailand",
+      "British Virgin Islands",
+      "Bahamas",
+      "Philippines"
+    ],
+    "dangerZone": [
       "Russia",
-      "Mexico"
+      "Brazil",
+      "Mexico",
+      "Iran"
+    ],
+    "tags": ["Geography", "Justice", "Demographics"],
+    "source": "World Prison Brief",
+    "clarification": "Based on latest available data per 100,000 population.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Countries",
+    "subcategories": ["Geography & Demographics"]
+  },
+  {
+    "question": "Top 10 UK universities by percentage of female students (undergraduate, latest data)",
+    "answers": [
+      "St Mary's University, Twickenham",
+      "Bishop Grosseteste University",
+      "Liverpool Hope University",
+      "Leeds Trinity University",
+      "University of Winchester",
+      "York St John University",
+      "University of Roehampton",
+      "Bath Spa University",
+      "University of Worcester",
+      "Edge Hill University"
     ],
     "dangerZone": [
-      "Japan",
-      "Ethiopia",
-      "Philippines",
-      "Egypt"
+      "University of Sussex",
+      "University of Reading",
+      "University of Surrey",
+      "Keele University"
     ],
-    "tags": ["demographics", "countries", "population"],
-    "source": "wikipedia",
-    "clarification": "Based on latest population estimates.",
-    "year": "2025",
+    "tags": ["Education", "UK", "Demographics"],
+    "source": "Higher Education Statistics Agency",
+    "clarification": "Based on undergraduate enrollment data.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Oldest Universities",
+    "subcategories": ["Education & History"]
+  },
+  {
+    "question": "Final 2023/24 Premier League standings (Top 10 teams)",
+    "answers": [
+      "Manchester City",
+      "Arsenal",
+      "Liverpool",
+      "Aston Villa",
+      "Tottenham",
+      "Chelsea",
+      "Newcastle",
+      "Manchester United",
+      "West Ham",
+      "Brighton"
+    ],
+    "dangerZone": [
+      "Wolves",
+      "Fulham",
+      "Crystal Palace",
+      "Everton"
+    ],
+    "tags": ["Sport", "Football", "Premier League"],
+    "source": "Premier League",
+    "clarification": "Based on final standings of the 2023/24 season.",
+    "year": "2024",
     "difficulty": 2,
-    "category": "Most Populous Countries",
-    "subcategories": ["Demographics", "Geography"]
+    "category": "Most Premier League Titles",
+    "subcategories": ["Football", "Sports & Records"]
   },
   {
-    "question": "Name the 10 longest mountain ranges in the world",
+    "question": "Top 10 countries with most FIFA World Cup titles (men's, all time)",
     "answers": [
-      "Andes",
-      "Rocky Mountains",
-      "Great Dividing Range",
-      "Transantarctic Mountains",
-      "Ural Mountains",
-      "Atlas Mountains",
-      "Alps",
-      "Himalayas",
-      "Appalachian Mountains",
-      "Scandinavian Mountains"
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina",
+      "France",
+      "Uruguay",
+      "England",
+      "Spain",
+      "Netherlands",
+      "Croatia"
     ],
     "dangerZone": [
-      "Carpathian Mountains",
-      "Zagros Mountains",
-      "Sierra Nevada",
-      "Drakensberg Mountains"
+      "Sweden",
+      "Portugal",
+      "Mexico",
+      "Belgium"
     ],
-    "tags": ["geography", "mountain ranges", "length"],
-    "source": "wikipedia",
-    "clarification": "Measured by total length of the range.",
-    "year": "2025",
-    "difficulty": 3,
-    "category": "Longest Mountain Ranges",
-    "subcategories": ["Geography", "Topography"]
+    "tags": ["Sport", "Football", "World Cup"],
+    "source": "FIFA",
+    "clarification": "Includes all men's FIFA World Cup tournaments.",
+    "year": "2024",
+    "difficulty": 2,
+    "category": "Most Goals Scored",
+    "subcategories": ["Football", "Sports & Records"]
   },
   {
-    "question": "Name the 10 largest islands in the world by area",
+    "question": "Countries with the highest number of test cricket grounds (as of 2024)",
     "answers": [
-      "Greenland",
-      "New Guinea",
-      "Borneo",
-      "Madagascar",
-      "Baffin Island",
-      "Sumatra",
-      "Honshu",
-      "Victoria Island",
-      "Great Britain",
-      "Ellesmere Island"
+      "India",
+      "Pakistan",
+      "South Africa",
+      "Australia",
+      "England",
+      "New Zealand",
+      "Sri Lanka",
+      "Bangladesh",
+      "Zimbabwe",
+      "United Arab Emirates"
     ],
     "dangerZone": [
-      "Sulawesi",
-      "South Island (New Zealand)",
-      "Java",
-      "North Island (New Zealand)"
+      "Guyana",
+      "Antigua and Barbuda",
+      "Barbados",
+      "Trinidad and Tobago"
     ],
-    "tags": ["geography", "islands", "area"],
-    "source": "wikipedia",
-    "clarification": "Excludes continental landmasses; ranked by total area.",
-    "year": "2025",
+    "tags": ["Sport", "Cricket", "Test Grounds"],
+    "source": "ICC",
+    "clarification": "Based on official test cricket venues.",
+    "year": "2024",
     "difficulty": 3,
-    "category": "Largest Islands",
-    "subcategories": ["Geography", "Topography"]
+    "category": "Most Test Runs",
+    "subcategories": ["Cricket", "Sports & Records"]
+  },
+  {
+    "question": "Top 10 busiest tube stations in London (as of 2024)",
+    "answers": [
+      "King's Cross",
+      "Waterloo",
+      "Victoria",
+      "London Bridge",
+      "Liverpool Street",
+      "Oxford Circus",
+      "Tottenham Court Road",
+      "Stratford",
+      "Paddington",
+      "Bond Street"
+    ],
+    "dangerZone": [
+      "Bank/Monument",
+      "Canary Wharf",
+      "Farringdon",
+      "Leicester Square"
+    ],
+    "tags": ["Geography", "UK", "Transport", "London"],
+    "source": "Transport for London",
+    "clarification": "Based on annual passenger entries and exits.",
+    "year": "2024",
+    "difficulty": 3,
+    "category": "Transport",
+    "subcategories": ["Geography & Demographics"]
   }
 ]
