@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "text": "What is the capital of France?",
+      "category": "Geography",
+      "difficulty": "Easy",
+      "type": "Multiple Choice",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": "2",
+      "text": "Who painted the Mona Lisa?",
+      "category": "Art",
+      "difficulty": "Medium",
+      "type": "Multiple Choice",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": "3",
+      "text": "What is the chemical symbol for gold?",
+      "category": "Science",
+      "difficulty": "Easy",
+      "type": "Multiple Choice",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correctAnswer": "Au"
+    },
+    {
+      "id": "4",
+      "text": "Which planet is known as the Red Planet?",
+      "category": "Science",
+      "difficulty": "Easy",
+      "type": "Multiple Choice",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": "5",
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "category": "Literature",
+      "difficulty": "Medium",
+      "type": "Multiple Choice",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correctAnswer": "William Shakespeare"
+    }
+  ]
+} 
