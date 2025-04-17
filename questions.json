@@ -558,5 +558,285 @@
     "difficulty": 2,
     "category": "Geography & Demographics",
     "subcategories": ["Countries", "Area"]
+  },
+  {
+    "question": "Top 10 countries whose capital cities are closest to the most other capital cities (within 1000 km)",
+    "answers": [
+      "Austria",
+      "Slovakia",
+      "Hungary",
+      "Czech Republic",
+      "Germany",
+      "Switzerland",
+      "Slovenia",
+      "Serbia",
+      "Poland",
+      "Croatia"
+    ],
+    "dangerZone": [
+      "Italy",
+      "Romania",
+      "Bosnia and Herzegovina",
+      "Bulgaria"
+    ],
+    "tags": ["Capitals", "Proximity", "Borders"],
+    "source": "CIA World Factbook",
+    "clarification": "Based on number of capital cities within 1000 km of the country's own capital.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Capitals"]
+  },
+  {
+    "question": "Top 10 countries with the largest road networks (by total kilometers)",
+    "answers": [
+      "United States",
+      "India",
+      "China",
+      "Brazil",
+      "Russia",
+      "Japan",
+      "Canada",
+      "France",
+      "Australia",
+      "Germany"
+    ],
+    "dangerZone": [
+      "Mexico",
+      "South Africa",
+      "Argentina",
+      "Indonesia"
+    ],
+    "tags": ["Infrastructure", "Roads", "Transport"],
+    "source": "CIA World Factbook",
+    "clarification": "Based on total length of roadways including paved and unpaved roads.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Road Networks"]
+  },
+  {
+    "question": "Top 10 countries with the most dialects spoken",
+    "answers": [
+      "India",
+      "Indonesia",
+      "China",
+      "Nigeria",
+      "Pakistan",
+      "Cameroon",
+      "DR Congo",
+      "Russia",
+      "Philippines",
+      "Brazil"
+    ],
+    "dangerZone": [
+      "Mexico",
+      "Ethiopia",
+      "United States",
+      "South Africa"
+    ],
+    "tags": ["Languages", "Dialects", "Cultural Diversity"],
+    "source": "Ethnologue",
+    "clarification": "Based on number of unique dialects spoken across all regions of the country.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Language", "Dialects"]
+  },
+  {
+    "question": "Top 10 countries with the longest coastlines",
+    "answers": [
+      "Canada",
+      "Indonesia",
+      "Russia",
+      "Philippines",
+      "Japan",
+      "Australia",
+      "Norway",
+      "United States",
+      "New Zealand",
+      "China"
+    ],
+    "dangerZone": [
+      "Brazil",
+      "India",
+      "Mexico",
+      "United Kingdom"
+    ],
+    "tags": ["Geography", "Coastlines", "Countries"],
+    "source": "World Atlas",
+    "clarification": "Measured in total coastline length (in km) across mainland and territories.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Borders"]
+  },
+  {
+    "question": "Top 10 most populous capital cities in the world (2024)",
+    "answers": [
+      "Beijing",
+      "Delhi",
+      "Tokyo",
+      "Dhaka",
+      "Cairo",
+      "Jakarta",
+      "Kinshasa",
+      "Lima",
+      "Bangkok",
+      "Moscow"
+    ],
+    "dangerZone": [
+      "Ankara",
+      "Tehran",
+      "Baghdad",
+      "Nairobi"
+    ],
+    "tags": ["Cities", "Capitals", "Population"],
+    "source": "World Population Review",
+    "clarification": "Based on population within city proper, not metro area.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Capitals"]
+  },
+  {
+    "question": "Top 10 most linguistically diverse countries (by total languages spoken)",
+    "answers": [
+      "Papua New Guinea",
+      "Indonesia",
+      "Nigeria",
+      "India",
+      "United States",
+      "China",
+      "Mexico",
+      "Cameroon",
+      "Brazil",
+      "DR Congo"
+    ],
+    "dangerZone": [
+      "Philippines",
+      "Russia",
+      "Australia",
+      "Pakistan"
+    ],
+    "tags": ["Languages", "Diversity", "Cultural Geography"],
+    "source": "Ethnologue",
+    "clarification": "Total number of living languages spoken in each country.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Language", "Language Families"]
+  },
+  {
+    "question": "Top 10 busiest metro systems by daily ridership",
+    "answers": [
+      "Shanghai",
+      "Beijing",
+      "Tokyo",
+      "Guangzhou",
+      "Seoul",
+      "Moscow",
+      "New York City",
+      "Delhi",
+      "Sao Paulo",
+      "Mexico City"
+    ],
+    "dangerZone": [
+      "Paris",
+      "London",
+      "Istanbul",
+      "Santiago"
+    ],
+    "tags": ["Metro Systems", "Transport", "Infrastructure"],
+    "source": "UITP / World Atlas",
+    "clarification": "Ranked by average daily passengers in 2024.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Metro Systems"]
+  },
+  {
+    "question": "Top 10 countries with the highest percentage of population living in urban areas (2024)",
+    "answers": [
+      "Singapore",
+      "Kuwait",
+      "Belgium",
+      "Qatar",
+      "Japan",
+      "Argentina",
+      "Iceland",
+      "Uruguay",
+      "Netherlands",
+      "Israel"
+    ],
+    "dangerZone": [
+      "Germany",
+      "United Kingdom",
+      "France",
+      "South Korea"
+    ],
+    "tags": ["Urbanization", "Demographics", "Countries"],
+    "source": "UN Urbanization Report",
+    "clarification": "Based on percentage of population classified as urban dwellers.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Human Geography", "Urbanization"]
+  },
+  {
+    "question": "Top 10 cities located furthest from an ocean (straight-line distance)",
+    "answers": [
+      "Ürümqi, China",
+      "Lanzhou, China",
+      "Novosibirsk, Russia",
+      "Almaty, Kazakhstan",
+      "Bishkek, Kyrgyzstan",
+      "Tashkent, Uzbekistan",
+      "Kabul, Afghanistan",
+      "Astana (Nur-Sultan), Kazakhstan",
+      "Ulaanbaatar, Mongolia",
+      "Samarkand, Uzbekistan"
+    ],
+    "dangerZone": [
+      "Baghdad, Iraq",
+      "Tehran, Iran",
+      "Denver, United States",
+      "Bamako, Mali"
+    ],
+    "tags": ["Cities", "Inland", "Distance to Ocean"],
+    "source": "World Atlas, National Geographic",
+    "clarification": "Measured by straight-line distance to the nearest ocean coastline. Only major cities considered.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Population"]
+  },
+  {
+    "question": "Top 10 countries with the most international airports",
+    "answers": [
+      "United States",
+      "Brazil",
+      "Mexico",
+      "Russia",
+      "China",
+      "Canada",
+      "India",
+      "Germany",
+      "France",
+      "Australia"
+    ],
+    "dangerZone": [
+      "United Kingdom",
+      "Indonesia",
+      "Turkey",
+      "Argentina"
+    ],
+    "tags": ["Airports", "Transport", "Infrastructure"],
+    "source": "World Airport Codes / Statista",
+    "clarification": "Based on total number of airports with international designations.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Airports (passenger traffic)"]
   }
 ]
