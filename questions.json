@@ -838,5 +838,285 @@
     "difficulty": 2,
     "category": "Geography & Demographics",
     "subcategories": ["Infrastructure", "Airports (passenger traffic)"]
+  },
+  {
+    "question": "Top 10 countries with the most islands",
+    "answers": [
+      "Sweden",
+      "Norway",
+      "Canada",
+      "Indonesia",
+      "Russia",
+      "Philippines",
+      "Japan",
+      "Finland",
+      "Australia",
+      "United States"
+    ],
+    "dangerZone": [
+      "New Zealand",
+      "Malaysia",
+      "Thailand",
+      "Greece"
+    ],
+    "tags": ["Geography", "Islands", "Countries"],
+    "source": "World Atlas",
+    "clarification": "Measured by total number of islands within each country's territory.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Area"]
+  },
+  {
+    "question": "Top 10 countries with the most landlocked neighbors",
+    "answers": [
+      "Russia",
+      "China",
+      "Germany",
+      "Austria",
+      "Turkey",
+      "Kazakhstan",
+      "France",
+      "Iran",
+      "India",
+      "Serbia"
+    ],
+    "dangerZone": [
+      "Sudan",
+      "Poland",
+      "Uzbekistan",
+      "Ukraine"
+    ],
+    "tags": ["Borders", "Neighbors", "Landlocked"],
+    "source": "CIA World Factbook",
+    "clarification": "Based on number of landlocked countries sharing borders.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Borders"]
+  },
+  {
+    "question": "Top 10 capital cities by total land area (city proper)",
+    "answers": [
+      "Naypyidaw",
+      "Kinshasa",
+      "Cairo",
+      "Jakarta",
+      "Buenos Aires",
+      "Baghdad",
+      "Ankara",
+      "Riyadh",
+      "Bangkok",
+      "Tehran"
+    ],
+    "dangerZone": [
+      "Mexico City",
+      "Moscow",
+      "Beijing",
+      "Lima"
+    ],
+    "tags": ["Capitals", "Land Area", "Cities"],
+    "source": "UN Habitat / City Mayors",
+    "clarification": "City proper administrative land area, not metro region.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Capitals"]
+  },
+  {
+    "question": "Top 10 countries with the most international land border crossings",
+    "answers": [
+      "Germany",
+      "France",
+      "Russia",
+      "China",
+      "India",
+      "United States",
+      "Austria",
+      "Switzerland",
+      "Turkey",
+      "Iran"
+    ],
+    "dangerZone": [
+      "Mexico",
+      "Poland",
+      "Pakistan",
+      "Italy"
+    ],
+    "tags": ["Borders", "Crossings", "Transport"],
+    "source": "World Bank, Border Infrastructure Report",
+    "clarification": "Measured by number of official land crossing points with neighboring countries.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Borders"]
+  },
+  {
+    "question": "Top 10 countries by total annual railway passengers (2023)",
+    "answers": [
+      "India",
+      "China",
+      "Japan",
+      "Russia",
+      "Germany",
+      "France",
+      "South Korea",
+      "Italy",
+      "United Kingdom",
+      "Ukraine"
+    ],
+    "dangerZone": [
+      "Pakistan",
+      "United States",
+      "Turkey",
+      "Poland"
+    ],
+    "tags": ["Rail Networks", "Infrastructure", "Transport"],
+    "source": "International Union of Railways (UIC)",
+    "clarification": "Based on total annual number of rail passengers (intercity + metro).",
+    "year": 2023,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Rail Networks"]
+  },
+  {
+    "question": "Top 10 countries with the most cities over 10 million people (megacities)",
+    "answers": [
+      "China",
+      "India",
+      "Brazil",
+      "Pakistan",
+      "Japan",
+      "Indonesia",
+      "United States",
+      "Bangladesh",
+      "Russia",
+      "Nigeria"
+    ],
+    "dangerZone": [
+      "Mexico",
+      "Philippines",
+      "Turkey",
+      "Vietnam"
+    ],
+    "tags": ["Cities", "Population", "Urbanization"],
+    "source": "United Nations Urban Agglomerations",
+    "clarification": "Defined by UN as urban areas with over 10 million inhabitants.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Megacities"]
+  },
+  {
+    "question": "Top 10 countries with the most bridges",
+    "answers": [
+      "China",
+      "United States",
+      "India",
+      "Japan",
+      "Germany",
+      "Russia",
+      "France",
+      "Brazil",
+      "Italy",
+      "South Korea"
+    ],
+    "dangerZone": [
+      "Indonesia",
+      "Mexico",
+      "Vietnam",
+      "Canada"
+    ],
+    "tags": ["Bridges", "Infrastructure", "Transport"],
+    "source": "World Infrastructure Rankings 2024",
+    "clarification": "Based on total number of bridges (all types) in use.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Road Networks"]
+  },
+  {
+    "question": "Top 10 countries with the strongest currencies (per unit exchange rate vs. USD)",
+    "answers": [
+      "Kuwaiti Dinar",
+      "Bahraini Dinar",
+      "Omani Rial",
+      "Jordanian Dinar",
+      "Gibraltar Pound",
+      "British Pound Sterling",
+      "Cayman Islands Dollar",
+      "Swiss Franc",
+      "Euro",
+      "US Dollar"
+    ],
+    "dangerZone": [
+      "Canadian Dollar",
+      "Brunei Dollar",
+      "Australian Dollar",
+      "Bermudian Dollar"
+    ],
+    "tags": ["Currency", "Economy", "Exchange Rate"],
+    "source": "XE Currency Converter / IMF",
+    "clarification": "Ranked by value of a single unit of currency compared to the US dollar (2024).",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Currency"]
+  },
+  {
+    "question": "Top 10 cities with the deepest metro stations (by depth below ground)",
+    "answers": [
+      "Arsenalna (Kyiv)",
+      "Admiralteyskaya (Saint Petersburg)",
+      "Washington Park (Portland)",
+      "Pyongyang Station (Pyongyang)",
+      "Namyang Station (Seoul)",
+      "Hampstead Station (London)",
+      "Park Pobedy (Moscow)",
+      "Jamsil Station (Seoul)",
+      "Forest Glen (Washington D.C.)",
+      "Nishitetsu Fukuoka (Japan)"
+    ],
+    "dangerZone": [
+      "Beijing Station (China)",
+      "Shanghai Station (China)",
+      "T-Centralen (Stockholm)",
+      "Tokyo Station (Japan)"
+    ],
+    "tags": ["Metro", "Infrastructure", "Urban Transport"],
+    "source": "Metro Report International / Railway Gazette",
+    "clarification": "Measured by vertical depth from ground level to platform in meters.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Metro Systems"]
+  },
+  {
+    "question": "Top 10 countries with the most time zones (mainland only)",
+    "answers": [
+      "Russia",
+      "United States",
+      "Canada",
+      "Australia",
+      "Brazil",
+      "Mexico",
+      "Kazakhstan",
+      "Indonesia",
+      "China",
+      "Argentina"
+    ],
+    "dangerZone": [
+      "India",
+      "France",
+      "South Africa",
+      "Algeria"
+    ],
+    "tags": ["Time Zones", "Geography", "Mainland"],
+    "source": "Time and Date / CIA World Factbook",
+    "clarification": "Only mainland administrative time zones counted; excludes overseas territories.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Global Systems", "Time Zones"]
   }
 ]
