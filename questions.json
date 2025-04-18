@@ -1678,5 +1678,285 @@
     "difficulty": 4,
     "category": "Geography & Demographics",
     "subcategories": ["Cities", "Population"]
+  },
+  {
+    "question": "Top 10 smallest countries in the world by land area",
+    "answers": [
+      "Vatican City",
+      "Monaco",
+      "Nauru",
+      "Tuvalu",
+      "San Marino",
+      "Liechtenstein",
+      "Marshall Islands",
+      "Saint Kitts and Nevis",
+      "Maldives",
+      "Malta"
+    ],
+    "dangerZone": [
+      "Grenada",
+      "Micronesia",
+      "Andorra",
+      "Barbados"
+    ],
+    "tags": ["Countries", "Area", "Size"],
+    "source": "CIA World Factbook / World Bank",
+    "clarification": "Ranked by total land area in square kilometers. Recognized sovereign states only.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Area"]
+  },
+  {
+    "question": "Top 10 most populous African countries (2024)",
+    "answers": [
+      "Nigeria",
+      "Ethiopia",
+      "Egypt",
+      "Democratic Republic of the Congo",
+      "Tanzania",
+      "South Africa",
+      "Kenya",
+      "Uganda",
+      "Sudan",
+      "Algeria"
+    ],
+    "dangerZone": [
+      "Morocco",
+      "Ghana",
+      "Mozambique",
+      "Angola"
+    ],
+    "tags": ["Africa", "Population"],
+    "source": "World Population Review / UN Data",
+    "clarification": "Based on mid-2024 population estimates.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Population"]
+  },
+  {
+    "question": "Top 10 cities with the most skyscrapers (buildings 150m+)",
+    "answers": [
+      "Hong Kong",
+      "Shenzhen",
+      "New York City",
+      "Dubai",
+      "Shanghai",
+      "Guangzhou",
+      "Tokyo",
+      "Kuala Lumpur",
+      "Chicago",
+      "Jakarta"
+    ],
+    "dangerZone": [
+      "Bangkok",
+      "Seoul",
+      "Toronto",
+      "Moscow"
+    ],
+    "tags": ["Cities", "Architecture", "Skyscrapers"],
+    "source": "SkyscraperCenter.com (CTBUH)",
+    "clarification": "Includes completed buildings at least 150 meters tall, as of 2024.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Skyline Height"]
+  },
+  {
+    "question": "Top 10 oil-producing countries in the world (2024)",
+    "answers": [
+      "United States",
+      "Saudi Arabia",
+      "Russia",
+      "Canada",
+      "China",
+      "Iraq",
+      "United Arab Emirates",
+      "Brazil",
+      "Iran",
+      "Kuwait"
+    ],
+    "dangerZone": [
+      "Mexico",
+      "Venezuela",
+      "Kazakhstan",
+      "Nigeria"
+    ],
+    "tags": ["Energy", "Oil", "Production"],
+    "source": "Statista / IEA (2024 estimates)",
+    "clarification": "Ranked by average daily oil production in millions of barrels per day.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Economy"]
+  },
+  {
+    "question": "Top 10 countries with the most active volcanoes",
+    "answers": [
+      "Indonesia",
+      "Japan",
+      "United States",
+      "Russia",
+      "Chile",
+      "Philippines",
+      "Ethiopia",
+      "Iceland",
+      "Papua New Guinea",
+      "Mexico"
+    ],
+    "dangerZone": [
+      "Italy",
+      "New Zealand",
+      "Guatemala",
+      "Peru"
+    ],
+    "tags": ["Volcanoes", "Earth Science"],
+    "source": "Smithsonian Global Volcanism Program",
+    "clarification": "Based on number of historically active volcanoes. Ties broken alphabetically.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Earth", "Volcanoes"]
+  },
+  {
+    "question": "Top 10 countries with the most nuclear reactors (2024)",
+    "answers": [
+      "United States",
+      "France",
+      "China",
+      "Russia",
+      "Japan",
+      "South Korea",
+      "Canada",
+      "Ukraine",
+      "United Kingdom",
+      "India"
+    ],
+    "dangerZone": [
+      "Germany",
+      "Pakistan",
+      "Sweden",
+      "Spain"
+    ],
+    "tags": ["Energy", "Nuclear", "Infrastructure"],
+    "source": "International Atomic Energy Agency (IAEA)",
+    "clarification": "Ranked by total number of operational nuclear power reactors.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Energy"]
+  },
+  {
+    "question": "Top 10 countries with the most lakes",
+    "answers": [
+      "Canada",
+      "Russia",
+      "United States",
+      "China",
+      "Brazil",
+      "India",
+      "Indonesia",
+      "Argentina",
+      "Australia",
+      "Kazakhstan"
+    ],
+    "dangerZone": [
+      "Finland",
+      "Norway",
+      "Democratic Republic of the Congo",
+      "Sweden"
+    ],
+    "tags": ["Geography", "Lakes", "Environment"],
+    "source": "World Atlas / Global Lakes Database",
+    "clarification": "Includes both large and small lakes. Based on total count, not surface area.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Area"]
+  },
+  {
+    "question": "Top 10 countries with the most internet users (2024)",
+    "answers": [
+      "China",
+      "India",
+      "United States",
+      "Indonesia",
+      "Brazil",
+      "Russia",
+      "Nigeria",
+      "Japan",
+      "Mexico",
+      "Germany"
+    ],
+    "dangerZone": [
+      "Philippines",
+      "Pakistan",
+      "Bangladesh",
+      "United Kingdom"
+    ],
+    "tags": ["Internet", "Technology", "Demographics"],
+    "source": "World Bank / ITU",
+    "clarification": "Based on total number of individuals using the internet.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Global Systems", "Technology"]
+  },
+  {
+    "question": "Top 10 countries with the most immigrants per year",
+    "answers": [
+      "United States",
+      "Germany",
+      "Saudi Arabia",
+      "Canada",
+      "United Kingdom",
+      "France",
+      "Australia",
+      "Spain",
+      "Italy",
+      "United Arab Emirates"
+    ],
+    "dangerZone": [
+      "Russia",
+      "Netherlands",
+      "Qatar",
+      "South Africa"
+    ],
+    "tags": ["Immigration", "Migration", "Demographics"],
+    "source": "UN DESA / World Bank",
+    "clarification": "Based on total annual inflow of foreign-born individuals granted legal residence (latest estimates).",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Human Geography", "Migration Patterns"]
+  },
+  {
+    "question": "Top 10 countries with the most public holidays per year",
+    "answers": [
+      "India",
+      "Colombia",
+      "Iran",
+      "Thailand",
+      "Lebanon",
+      "South Korea",
+      "Japan",
+      "Philippines",
+      "Argentina",
+      "Malaysia"
+    ],
+    "dangerZone": [
+      "Indonesia",
+      "Vietnam",
+      "Turkey",
+      "Russia"
+    ],
+    "tags": ["Culture", "National Holidays"],
+    "source": "World Population Review / Official Gov Calendars",
+    "clarification": "Includes national statutory public holidays per calendar year, excluding regional-only days.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cultural Events", "National Days"]
   }
 ]
