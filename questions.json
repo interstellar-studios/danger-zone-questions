@@ -1118,5 +1118,285 @@
     "difficulty": 3,
     "category": "Geography & Demographics",
     "subcategories": ["Global Systems", "Time Zones"]
+  },
+  {
+    "question": "Top 10 most visited tourist attractions in London (2029 figures)",
+    "answers": [
+      "British Museum",
+      "Tate Modern",
+      "National Gallery",
+      "Natural History Museum",
+      "Southbank Centre",
+      "Victoria and Albert Museum",
+      "Science Museum",
+      "Somerset House",
+      "Tower of London",
+      "St Paul's Cathedral"
+    ],
+    "dangerZone": [
+      "London Zoo",
+      "Kensington Palace",
+      "Madame Tussauds",
+      "Royal Observatory"
+    ],
+    "tags": ["London", "Tourism", "Attractions"],
+    "source": "Visit Britain / ALVA",
+    "clarification": "Based on visitor numbers to free and paid attractions. Pre-pandemic baseline used (2019).",
+    "year": 2019,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Landmarks"]
+  },
+  {
+    "question": "Top 10 most populous boroughs of London (2023)",
+    "answers": [
+      "Croydon",
+      "Barnet",
+      "Ealing",
+      "Newham",
+      "Enfield",
+      "Brent",
+      "Lambeth",
+      "Wandsworth",
+      "Redbridge",
+      "Lewisham"
+    ],
+    "dangerZone": [
+      "Haringey",
+      "Hounslow",
+      "Hackney",
+      "Tower Hamlets"
+    ],
+    "tags": ["London", "Population", "Boroughs"],
+    "source": "London Datastore / ONS",
+    "clarification": "Based on estimated total population by borough as of mid-2023.",
+    "year": 2023,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Population"]
+  },
+  {
+    "question": "Top 10 busiest London Underground stations by annual entry/exit footfall",
+    "answers": [
+      "King's Cross St Pancras",
+      "Oxford Circus",
+      "Victoria",
+      "Waterloo",
+      "Liverpool Street",
+      "London Bridge",
+      "Stratford",
+      "Paddington",
+      "Canary Wharf",
+      "Bank"
+    ],
+    "dangerZone": [
+      "Green Park",
+      "Euston",
+      "South Kensington",
+      "Finsbury Park"
+    ],
+    "tags": ["London", "Underground", "Transport"],
+    "source": "TfL Station Footfall Statistics (2022)",
+    "clarification": "Based on entry/exit totals at Tube stations in the latest full-year data.",
+    "year": 2022,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Metro Systems"]
+  },
+  {
+    "question": "Top 10 London rail lines by number of stations (Underground + DLR + Elizabeth line)",
+    "answers": [
+      "District",
+      "Piccadilly",
+      "Northern",
+      "Central",
+      "DLR",
+      "Elizabeth line",
+      "Circle",
+      "Metropolitan",
+      "Hammersmith & City",
+      "Jubilee"
+    ],
+    "dangerZone": [
+      "Bakerloo",
+      "Victoria",
+      "Waterloo & City",
+      "Tramlink"
+    ],
+    "tags": ["London", "Railways", "Station Count"],
+    "source": "Transport for London, Wikipedia (2024)",
+    "clarification": "Includes all major London rail lines: Underground, DLR, and Elizabeth line. Ranked by number of stations served. Overground excluded due to classification as a suburban rail service. Ties broken alphabetically.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Metro Systems"]
+  },
+  {
+    "question": "Top 10 Tube stations closest to Big Ben (by walking distance)",
+    "answers": [
+      "Westminster",
+      "St James's Park",
+      "Embankment",
+      "Waterloo",
+      "Lambeth North",
+      "Charing Cross",
+      "Victoria",
+      "Temple",
+      "Green Park",
+      "Southwark"
+    ],
+    "dangerZone": [
+      "Pimlico",
+      "London Bridge",
+      "Covent Garden",
+      "Leicester Square"
+    ],
+    "tags": ["London", "Proximity", "Underground"],
+    "source": "Google Maps (2024)",
+    "clarification": "Ranked by walking distance from Big Ben to station entrance, using Google Maps. Ties broken alphabetically.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Landmarks"]
+  },
+  {
+    "question": "Top 10 London boroughs by average household income (2023)",
+    "answers": [
+      "Kensington and Chelsea",
+      "Westminster",
+      "City of London",
+      "Richmond upon Thames",
+      "Hammersmith and Fulham",
+      "Camden",
+      "Barnet",
+      "Wandsworth",
+      "Harrow",
+      "Islington"
+    ],
+    "dangerZone": [
+      "Southwark",
+      "Hackney",
+      "Greenwich",
+      "Brent"
+    ],
+    "tags": ["London", "Income", "Boroughs"],
+    "source": "London Datastore / HMRC",
+    "clarification": "Based on average gross annual household income per borough.",
+    "year": 2023,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Population"]
+  },
+  {
+    "question": "Top 10 oldest London Underground stations (by opening date)",
+    "answers": [
+      "Baker Street",
+      "Barbican",
+      "Edgware Road (Circle Line)",
+      "Euston Square",
+      "Farringdon",
+      "Great Portland Street",
+      "King's Cross St Pancras",
+      "Moorgate",
+      "Paddington",
+      "Aldgate"
+    ],
+    "dangerZone": [
+      "South Kensington",
+      "Gloucester Road",
+      "Charing Cross",
+      "Embankment"
+    ],
+    "tags": ["London", "Underground", "History"],
+    "source": "TfL / London Transport Museum / Wikipedia",
+    "clarification": "Most stations opened on 10 January 1863. Ties broken alphabetically by station name.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Metro Systems"]
+  },
+  {
+    "question": "Top 10 largest parks in London (by area in hectares)",
+    "answers": [
+      "Richmond Park",
+      "Bushy Park",
+      "Regent's Park",
+      "Hyde Park",
+      "Hampstead Heath",
+      "Wimbledon Common",
+      "Greenwich Park",
+      "Victoria Park",
+      "Clapham Common",
+      "Battersea Park"
+    ],
+    "dangerZone": [
+      "St James's Park",
+      "Kensington Gardens",
+      "Finsbury Park",
+      "Holland Park"
+    ],
+    "tags": ["London", "Parks", "Land Area"],
+    "source": "Royal Parks / London.gov",
+    "clarification": "Ranked by official area in hectares. Publicly accessible parks only.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Landmarks"]
+  },
+  {
+    "question": "Top 10 longest river crossings in London (by span length)",
+    "answers": [
+      "Queen Elizabeth II Bridge",
+      "Dartford Crossing (tunnel)",
+      "Millennium Bridge",
+      "Blackfriars Railway Bridge",
+      "Tower Bridge",
+      "Albert Bridge",
+      "Chelsea Bridge",
+      "Lambeth Bridge",
+      "Putney Bridge",
+      "Vauxhall Bridge"
+    ],
+    "dangerZone": [
+      "Hammersmith Bridge",
+      "Southwark Bridge",
+      "London Bridge",
+      "Westminster Bridge"
+    ],
+    "tags": ["London", "Bridges", "River Thames"],
+    "source": "London.gov / Transport for London",
+    "clarification": "Ranked by length of structure crossing the Thames, including tunnels.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Road Networks"]
+  },
+  {
+    "question": "Top 10 UK Monopoly properties (standard edition) in alphabetical order",
+    "answers": [
+      "Angel Islington",
+      "Bow Street",
+      "Coventry Street",
+      "Euston Road",
+      "Fenchurch St Station",
+      "Fleet Street",
+      "Leicester Square",
+      "Liverpool Street Station",
+      "Marlborough Street",
+      "Mayfair"
+    ],
+    "dangerZone": [
+      "Old Kent Road",
+      "Oxford Street",
+      "Piccadilly",
+      "Whitechapel Road"
+    ],
+    "tags": ["Monopoly", "London", "Board Games"],
+    "source": "Hasbro UK / Standard Edition Monopoly Board",
+    "clarification": "Standard UK edition properties ranked alphabetically.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Landmarks"]
   }
 ]
