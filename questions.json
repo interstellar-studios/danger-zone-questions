@@ -1958,5 +1958,201 @@
     "difficulty": 3,
     "category": "Geography & Demographics",
     "subcategories": ["Cultural Events", "National Days"]
+  },
+  {
+    "question": "Top 10 countries with the most undersea internet cables connected (2024)",
+    "answers": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Japan",
+      "Brazil",
+      "Australia",
+      "Spain",
+      "India",
+      "Canada",
+      "Italy"
+    ],
+    "dangerZone": [
+      "Germany",
+      "Netherlands",
+      "Singapore",
+      "South Korea"
+    ],
+    "tags": ["Submarine Cables", "Internet", "Infrastructure"],
+    "source": "Submarine Cable Map (TeleGeography, 2024)",
+    "clarification": "Ranked by the number of unique submarine cable landing points in each country.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Global Systems",
+    "subcategories": ["Infrastructure", "Technology"]
+  },
+  {
+    "question": "Top 10 countries with the largest standing armies (2024)",
+    "answers": [
+      "China",
+      "India",
+      "United States",
+      "North Korea",
+      "Russia",
+      "Pakistan",
+      "Iran",
+      "South Korea",
+      "Vietnam",
+      "Egypt"
+    ],
+    "dangerZone": [
+      "Turkey",
+      "Indonesia",
+      "Brazil",
+      "Thailand"
+    ],
+    "tags": ["Military", "Defense", "Population"],
+    "source": "World Population Review (2024)",
+    "clarification": "Based on number of active military personnel (standing army only).",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geopolitics",
+    "subcategories": ["Military", "Defense"]
+  },
+  {
+    "question": "Top 10 countries with the most foreign military bases abroad",
+    "answers": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Russia",
+      "India",
+      "China",
+      "Germany",
+      "Turkey",
+      "Italy",
+      "Japan"
+    ],
+    "dangerZone": [
+      "South Korea",
+      "Australia",
+      "Spain",
+      "Canada"
+    ],
+    "tags": ["Military", "Foreign Policy"],
+    "source": "World Population Review / Global Firepower",
+    "clarification": "Ranked by the number of overseas military installations (not domestic bases).",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geopolitics",
+    "subcategories": ["Military", "International Relations"]
+  },
+  {
+    "question": "Top 10 most spoken first languages in the world",
+    "answers": [
+      "Mandarin Chinese",
+      "Spanish",
+      "English",
+      "Hindi",
+      "Arabic",
+      "Bengali",
+      "Portuguese",
+      "Russian",
+      "Japanese",
+      "Lahnda (Western Punjabi)"
+    ],
+    "dangerZone": [
+      "German",
+      "French",
+      "Turkish",
+      "Vietnamese"
+    ],
+    "tags": ["Language", "Linguistics", "Demographics"],
+    "source": "Ethnologue / Wikipedia",
+    "clarification": "Ranked by native (first-language) speakers, not total speakers.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Language",
+    "subcategories": ["Language Families"]
+  },
+  {
+    "question": "Top 10 countries with the highest literacy rates",
+    "answers": [
+      "Andorra",
+      "Finland",
+      "Greenland",
+      "Liechtenstein",
+      "Luxembourg",
+      "Norway",
+      "Ukraine",
+      "Uzbekistan",
+      "North Korea",
+      "Kazakhstan"
+    ],
+    "dangerZone": [
+      "Estonia",
+      "Latvia",
+      "Slovenia",
+      "Belarus"
+    ],
+    "tags": ["Education", "Literacy", "Human Development"],
+    "source": "World Population Review / UNESCO",
+    "clarification": "Based on the percentage of the population aged 15 and above who can read and write. 100% values may be rounded from official data.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Human Geography",
+    "subcategories": ["Education", "Demographics"]
+  },
+  {
+    "question": "Top 10 countries with the highest internal migration rates",
+    "answers": [
+      "United States",
+      "China",
+      "India",
+      "Brazil",
+      "Russia",
+      "Indonesia",
+      "Mexico",
+      "Pakistan",
+      "Nigeria",
+      "Bangladesh"
+    ],
+    "dangerZone": [
+      "Vietnam",
+      "Philippines",
+      "Colombia",
+      "Ethiopia"
+    ],
+    "tags": ["Migration", "Demographics"],
+    "source": "World Migration Report 2024 (IOM)",
+    "clarification": "Based on the number of people relocating between regions within a country.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Human Geography",
+    "subcategories": ["Migration Patterns"]
+  },
+  {
+    "question": "Top 10 countries with highest % of urban population living in slums",
+    "answers": [
+      "Central African Republic",
+      "Sudan",
+      "Chad",
+      "São Tomé and Príncipe",
+      "Democratic Republic of the Congo",
+      "Mozambique",
+      "Niger",
+      "Guinea-Bissau",
+      "Madagascar",
+      "Angola"
+    ],
+    "dangerZone": [
+      "Ethiopia",
+      "Haiti",
+      "Zambia",
+      "Burkina Faso"
+    ],
+    "tags": ["Urbanization", "Development", "Housing"],
+    "source": "World Bank / UN-Habitat",
+    "clarification": "Percentage of urban population living in slum-like conditions. Ranked by % of urban population affected.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "Human Geography",
+    "subcategories": ["Urbanization"]
   }
 ]
