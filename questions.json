@@ -1398,5 +1398,285 @@
     "difficulty": 3,
     "category": "Geography & Demographics",
     "subcategories": ["Cities", "Landmarks"]
+  },
+  {
+    "question": "Top 10 most populous cities in the United Kingdom (2024)",
+    "answers": [
+      "London",
+      "Birmingham",
+      "Manchester",
+      "Glasgow",
+      "Leeds",
+      "Liverpool",
+      "Sheffield",
+      "Edinburgh",
+      "Leicester",
+      "Bristol"
+    ],
+    "dangerZone": [
+      "Coventry",
+      "Cardiff",
+      "Nottingham",
+      "Stoke-on-Trent"
+    ],
+    "tags": ["UK", "Cities", "Population"],
+    "source": "ONS / World Population Review",
+    "clarification": "Ranked by city proper population, not metro area.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Population"]
+  },
+  {
+    "question": "Top 10 largest counties in the UK by land area (non-ceremonial)",
+    "answers": [
+      "North Yorkshire",
+      "Lincolnshire",
+      "Cumbria",
+      "Devon",
+      "Norfolk",
+      "Northumberland",
+      "Lancashire",
+      "Somerset",
+      "Derbyshire",
+      "Hampshire"
+    ],
+    "dangerZone": [
+      "Suffolk",
+      "Gloucestershire",
+      "Shropshire",
+      "Nottinghamshire"
+    ],
+    "tags": ["UK", "Counties", "Area"],
+    "source": "UK County Statistics (Ordnance Survey)",
+    "clarification": "Based on non-ceremonial county land area in square kilometers. Ceremonial counties excluded.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Area"]
+  },
+  {
+    "question": "Top 10 tallest mountains in the United Kingdom",
+    "answers": [
+      "Ben Nevis",
+      "Ben Macdui",
+      "Braeriach",
+      "Cairn Toul",
+      "Sgor an Lochain Uaine",
+      "Cairn Gorm",
+      "Aonach Beag",
+      "Aonach Mòr",
+      "Carn Mor Dearg",
+      "Ben Lawers"
+    ],
+    "dangerZone": [
+      "Scafell Pike",
+      "Snowdon",
+      "Lochnagar",
+      "Slieve Donard"
+    ],
+    "tags": ["UK", "Mountains", "Elevation"],
+    "source": "Ordnance Survey / Wikipedia",
+    "clarification": "Ranked by elevation above sea level (meters). Scotland dominates list due to higher ranges.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "Geography & Demographics",
+    "subcategories": ["Earth", "Geology"]
+  },
+  {
+    "question": "Top 10 longest rivers in the UK",
+    "answers": [
+      "River Severn",
+      "River Thames",
+      "River Trent",
+      "River Great Ouse",
+      "River Wye",
+      "River Ure / Ouse",
+      "River Tay",
+      "River Clyde",
+      "River Tees",
+      "River Avon (Warwickshire)"
+    ],
+    "dangerZone": [
+      "River Medway",
+      "River Tyne",
+      "River Don",
+      "River Eden"
+    ],
+    "tags": ["UK", "Rivers", "Length"],
+    "source": "UK Rivers Guidebook / Ordnance Survey",
+    "clarification": "Ranked by total river length in kilometers (including tributaries).",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Earth", "Oceanography"]
+  },
+  {
+    "question": "Top 10 UK cities with highest average annual rainfall",
+    "answers": [
+      "Cardiff",
+      "Glasgow",
+      "Stirling",
+      "Plymouth",
+      "Preston",
+      "Aberdeen",
+      "Belfast",
+      "Bradford",
+      "Liverpool",
+      "Swansea"
+    ],
+    "dangerZone": [
+      "Sheffield",
+      "Leeds",
+      "Newcastle",
+      "Manchester"
+    ],
+    "tags": ["UK", "Rainfall", "Climate"],
+    "source": "Met Office (UK Climate Normals)",
+    "clarification": "Based on long-term annual average rainfall (mm) recorded in major urban areas.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Global Systems", "Climate Zones"]
+  },
+  {
+    "question": "Top 10 busiest train stations in Great Britain outside of London (2023–24)",
+    "answers": [
+      "Birmingham New Street",
+      "Manchester Piccadilly",
+      "Glasgow Central",
+      "Leeds",
+      "Edinburgh Waverley",
+      "Gatwick Airport",
+      "Brighton",
+      "Glasgow Queen Street",
+      "Reading",
+      "Liverpool Central"
+    ],
+    "dangerZone": [
+      "Sheffield",
+      "Bristol Temple Meads",
+      "Nottingham",
+      "Cardiff Central"
+    ],
+    "tags": ["UK", "Rail", "Transport"],
+    "source": "Office of Rail and Road (2024)",
+    "clarification": "Excludes all stations within Greater London. Based on total annual entries and exits for 2023–24.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Rail Networks"]
+  },
+  {
+    "question": "Top 10 busiest airports in the United Kingdom (2023)",
+    "answers": [
+      "London Heathrow",
+      "London Gatwick",
+      "Manchester",
+      "London Stansted",
+      "London Luton",
+      "Edinburgh",
+      "Birmingham",
+      "Bristol",
+      "Glasgow",
+      "Belfast International"
+    ],
+    "dangerZone": [
+      "Newcastle",
+      "East Midlands",
+      "Aberdeen",
+      "Leeds Bradford"
+    ],
+    "tags": ["UK", "Airports", "Passenger Volume"],
+    "source": "Civil Aviation Authority (CAA)",
+    "clarification": "Ranked by total passengers handled in 2023.",
+    "year": 2023,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure", "Airports (passenger traffic)"]
+  },
+  {
+    "question": "Top 10 UK cities with the longest official city status (historical charters)",
+    "answers": [
+      "London",
+      "Canterbury",
+      "York",
+      "Winchester",
+      "Durham",
+      "Wells",
+      "Lincoln",
+      "Chichester",
+      "Exeter",
+      "Carlisle"
+    ],
+    "dangerZone": [
+      "Gloucester",
+      "Norwich",
+      "Hereford",
+      "Ripon"
+    ],
+    "tags": ["UK", "Cities", "History"],
+    "source": "UK Government / Historic UK",
+    "clarification": "Ranked by earliest date of formal city status grant. Ties broken alphabetically.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Capitals"]
+  },
+  {
+    "question": "Top 10 UK cities with a 'United' football club, ranked by city population",
+    "answers": [
+      "Manchester",
+      "Leeds",
+      "Sheffield",
+      "Newcastle",
+      "Bristol",
+      "Plymouth",
+      "Cambridge",
+      "Carlisle",
+      "Lincoln",
+      "Exeter"
+    ],
+    "dangerZone": [
+      "Scunthorpe",
+      "Hartlepool",
+      "Stevenage",
+      "Salford"
+    ],
+    "tags": ["UK", "Football", "City Populations"],
+    "source": "ONS / Football League",
+    "clarification": "Cities must host a football club with 'United' in its official name. Ranked by city population.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Population"]
+  },
+  {
+    "question": "Top 10 UK places starting with 'New', ranked by population",
+    "answers": [
+      "Newcastle upon Tyne",
+      "Newport",
+      "Newtownabbey",
+      "Newbury",
+      "Newmarket",
+      "Newcastle-under-Lyme",
+      "Newquay",
+      "Newark-on-Trent",
+      "Newtown (Powys)",
+      "New Mills"
+    ],
+    "dangerZone": [
+      "New Milton",
+      "Newport Pagnell",
+      "Newbiggin-by-the-Sea",
+      "Newry"
+    ],
+    "tags": ["UK", "Place Names", "Population"],
+    "source": "ONS Population Estimates / UK Census",
+    "clarification": "Only towns and cities starting with 'New'. Ranked by 2023 population estimate.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities", "Population"]
   }
 ]
