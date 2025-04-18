@@ -2154,5 +2154,117 @@
     "difficulty": 5,
     "category": "Human Geography",
     "subcategories": ["Urbanization"]
+  },
+  {
+    "question": "Top 10 countries with the most citizens living abroad (emigrants, 2024)",
+    "answers": [
+      "India",
+      "Mexico",
+      "Russia",
+      "China",
+      "Bangladesh",
+      "Syria",
+      "Pakistan",
+      "Ukraine",
+      "Philippines",
+      "Afghanistan"
+    ],
+    "dangerZone": [
+      "Indonesia",
+      "United Kingdom",
+      "Germany",
+      "Vietnam"
+    ],
+    "tags": ["Migration", "Emigration", "Global Mobility"],
+    "source": "Wikipedia - List of sovereign states by emigrant population (UN DESA / World Bank)",
+    "clarification": "Based on total number of citizens living outside their country of origin in 2024.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Human Geography", "Migration Patterns"]
+  },
+  {
+    "question": "Top 10 coffee-producing countries in the world (2024)",
+    "answers": [
+      "Brazil",
+      "Vietnam",
+      "Colombia",
+      "Indonesia",
+      "Ethiopia",
+      "Honduras",
+      "India",
+      "Uganda",
+      "Mexico",
+      "Guatemala"
+    ],
+    "dangerZone": [
+      "Peru",
+      "Nicaragua",
+      "China",
+      "Ivory Coast"
+    ],
+    "tags": ["Coffee", "Agriculture", "Production"],
+    "source": "Wikipedia - List of countries by coffee production (ICO / FAO)",
+    "clarification": "Ranked by total annual coffee production in metric tons (green coffee beans).",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Economy"]
+  },
+  {
+    "question": "Top 10 countries by wind power generation (2024)",
+    "answers": [
+      "China",
+      "United States",
+      "Germany",
+      "India",
+      "Spain",
+      "United Kingdom",
+      "Brazil",
+      "France",
+      "Canada",
+      "Sweden"
+    ],
+    "dangerZone": [
+      "Italy",
+      "Australia",
+      "Denmark",
+      "Turkey"
+    ],
+    "tags": ["Energy", "Wind Power", "Renewables"],
+    "source": "World Population Review - Wind Power by Country (2024)",
+    "clarification": "Based on total wind energy generated annually (measured in TWh).",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Global Systems", "Infrastructure"]
+  },
+  {
+    "question": "Top 10 countries with the largest gold reserves (2024)",
+    "answers": [
+      "United States",
+      "Germany",
+      "Italy",
+      "France",
+      "Russia",
+      "China",
+      "Switzerland",
+      "Japan",
+      "India",
+      "Netherlands"
+    ],
+    "dangerZone": [
+      "Turkey",
+      "Saudi Arabia",
+      "Portugal",
+      "United Kingdom"
+    ],
+    "tags": ["Gold", "Economy", "Reserves"],
+    "source": "World Gold Council - Gold Reserves by Country (Q1 2024)",
+    "clarification": "Ranked by total central bank gold holdings in metric tonnes.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Economy"]
   }
 ]
