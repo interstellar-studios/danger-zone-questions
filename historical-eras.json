@@ -1,0 +1,25 @@
+{
+  "id": "historical-eras-pack-001",
+  "name": "Historical Eras",
+  "description": "Iconic time periods and places from history",
+  "words": [
+    "Ancient Egypt",
+    "Ancient Rome",
+    "Medieval Castle",
+    "Renaissance Italy",
+    "Wild West Town",
+    "WWI Trench",
+    "1980s Mall",
+    "2000s",
+    "Present Day",
+    "2100",
+    "Pirate Ship",
+    "Caveman Cave",
+    "Gladiator Arena",
+    "2020 BLM March",
+    "Cold War Bunker",
+    "Samurai Dojo"
+  ],
+  "isCustom": false,
+  "createdAt": "2025-04-19T12:45:00.000Z"
+}
