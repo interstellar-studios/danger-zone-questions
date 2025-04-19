@@ -3,8 +3,9 @@
   "name": "Countries",
   "description": "Famous countries with strong identities",
   "words": [
-    "United States",
     "United Kingdom",
+    "United States",
+    "Palestine",
     "France",
     "Germany",
     "Italy",
@@ -37,7 +38,8 @@
     "Indonesia",
     "Philippines",
     "Poland",
-    "Saudi Arabia"
+    "Saudi Arabia",
+    "Zambia"
   ],
   "isCustom": false,
   "createdAt": "2025-04-19T12:15:00.000Z"
