@@ -1,7 +1,10 @@
-   [
-     {"name": "basic"},
-     {"name": "countries"},
-     {"name": "sports"}
-     {"name": "time travel"}
-     {"name": "hardcore"}
-   ]
+[
+  { "name": "basic" },
+  { "name": "sports" },
+  { "name": "historical eras" },
+  { "name": "fictional universes" },
+  { "name": "social settings" },
+  { "name": "workplaces" },
+  { "name": "kids" },
+  { "name": "hidden gems" }
+]
