@@ -37,5 +37,6 @@
     "Tube Station"
   ],
   "isCustom": false,
-  "createdAt": "2025-04-19T12:02:55.000Z"
+  "createdAt": "2025-04-19T12:02:55.000Z",
+  "category": "Locations"
 }
