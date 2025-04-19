@@ -1,6 +1,7 @@
 [
   { "name": "basic" },
   { "name": "sports" },
+  { "name": "countries" },
   { "name": "historical eras" },
   { "name": "fictional universes" },
   { "name": "social settings" },
