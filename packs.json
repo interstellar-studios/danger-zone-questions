@@ -2,10 +2,10 @@
   { "name": "basic" },
   { "name": "sports" },
   { "name": "countries" },
-  { "name": "historical eras" },
-  { "name": "fictional universes" },
-  { "name": "social settings" },
+  { "name": "historical-eras" },
+  { "name": "fictional-universes" },
+  { "name": "social-settings" },
   { "name": "workplaces" },
   { "name": "kids" },
-  { "name": "muzammil custom" }
+  { "name": "muzammil-custom" }
 ]
