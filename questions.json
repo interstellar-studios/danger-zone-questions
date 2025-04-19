@@ -2266,5 +2266,201 @@
     "difficulty": 3,
     "category": "Geography & Demographics",
     "subcategories": ["Countries", "Economy"]
+  },
+  {
+    "question": "Top 10 deadliest wars in history by total death toll",
+    "answers": [
+      "World War II",
+      "Mongol Conquests",
+      "Taiping Rebellion",
+      "World War I",
+      "Second Sino-Japanese War",
+      "Qing Conquest of the Ming",
+      "Napoleonic Wars",
+      "An Lushan Rebellion",
+      "Russian Civil War",
+      "Second Congo War"
+    ],
+    "dangerZone": [
+      "Vietnam War",
+      "Korean War",
+      "Iran-Iraq War",
+      "Chinese Civil War"
+    ],
+    "tags": ["Wars", "Death Toll", "Military History"],
+    "source": "Military History Fandom - List of wars by death toll",
+    "clarification": "Ranked by estimated total deaths, including both military and civilian casualties.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Historical Events", "Wars"]
+  },
+  {
+    "question": "Top 10 longest-lasting empires in history",
+    "answers": [
+      "Byzantine Empire",
+      "Holy Roman Empire",
+      "Kingdom of Aksum",
+      "Ottoman Empire",
+      "Ancient Egyptian Empire",
+      "Kingdom of Kush",
+      "Portuguese Empire",
+      "Spanish Empire",
+      "Ming Dynasty",
+      "British Empire"
+    ],
+    "dangerZone": [
+      "Roman Empire",
+      "Mughal Empire",
+      "Mongol Empire",
+      "French Colonial Empire"
+    ],
+    "tags": ["Empires", "Longevity", "Civilizations"],
+    "source": "WorldAtlas - 10 Most Long-Lived Empires In History",
+    "clarification": "Ranked by the duration from establishment to dissolution of each empire.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Ancient Civilizations"]
+  },
+  {
+    "question": "Top 10 countries with the most independence days from different colonizers",
+    "answers": [
+      "Armenia",
+      "Azerbaijan",
+      "Lithuania",
+      "Slovenia",
+      "Colombia",
+      "Chile",
+      "Belarus",
+      "Estonia",
+      "Latvia",
+      "Georgia"
+    ],
+    "dangerZone": [
+      "Kazakhstan",
+      "Ukraine",
+      "Moldova",
+      "Uzbekistan"
+    ],
+    "tags": ["Independence", "Colonial History", "National Days"],
+    "source": "WorldAtlas - List of Independence Days by Country",
+    "clarification": "Countries that have multiple independence days due to gaining independence from different colonizers at different times.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "History & Civilizations",
+    "subcategories": ["Modern History", "Independence Movements"]
+  },
+  {
+    "question": "Top 10 longest-reigning monarchs in history",
+    "answers": [
+      "Louis XIV of France",
+      "Elizabeth II of the United Kingdom",
+      "Bhumibol Adulyadej of Thailand",
+      "Johann II of Liechtenstein",
+      "K'inich Janaab' Pakal of Palenque",
+      "Franz Joseph I of Austria",
+      "Chan Imix K'awiil of Copán",
+      "Ferdinand III of Sicily",
+      "Victoria of the United Kingdom",
+      "James I of Aragon"
+    ],
+    "dangerZone": [
+      "Christian IX of Denmark",
+      "Nicholas I of Russia",
+      "Wilhelm II of Germany",
+      "Charles III of Spain"
+    ],
+    "tags": ["Monarchs", "Reigns", "Royalty"],
+    "source": "Wikipedia - List of longest-reigning monarchs",
+    "clarification": "Ranked by the length of reign in years and days.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Inventions & Discoveries", "Firsts in History"]
+  },
+  {
+    "question": "Top 10 countries with the most civil wars since 1900",
+    "answers": [
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "Sudan",
+      "Nigeria",
+      "Colombia",
+      "India",
+      "Myanmar",
+      "Russia"
+    ],
+    "dangerZone": [
+      "Turkey",
+      "Spain",
+      "Mexico",
+      "Pakistan"
+    ],
+    "tags": ["Civil Wars", "Conflicts", "Internal Strife"],
+    "source": "Wikipedia - Category: Civil wars by country",
+    "clarification": "Based on the number of distinct civil wars experienced by each country since 1900.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Historical Events", "Revolutions"]
+  },
+  {
+    "question": "Top 10 oldest continuously inhabited cities in the world",
+    "answers": [
+      "Jericho, West Bank",
+      "Damascus, Syria",
+      "Byblos, Lebanon",
+      "Aleppo, Syria",
+      "Susa, Iran",
+      "Athens, Greece",
+      "Erbil, Iraq",
+      "Sidon, Lebanon",
+      "Plovdiv, Bulgaria",
+      "Varanasi, India"
+    ],
+    "dangerZone": [
+      "Luoyang, China",
+      "Jerusalem, Israel",
+      "Beirut, Lebanon",
+      "Istanbul, Turkey"
+    ],
+    "tags": ["Cities", "Ancient History", "Continuous Habitation"],
+    "source": "Wikipedia - List of oldest continuously inhabited cities",
+    "clarification": "Ranked by the earliest known date of continuous habitation.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "History & Civilizations",
+    "subcategories": ["Ancient Civilizations"]
+  },
+  {
+    "question": "Top 10 largest protests in history by estimated turnout",
+    "answers": [
+      "Indian Farmers' Protest (2020–2021)",
+      "George Floyd Protests (2020)",
+      "Women's March (2017)",
+      "Anti-Iraq War Protest (2003)",
+      "Tiananmen Square Protests (1989)",
+      "The Baltic Way (1989)",
+      "People Power Revolution (1986)",
+      "Earth Day (1970)",
+      "France May Protests (1968)",
+      "Salt March (1930)"
+    ],
+    "dangerZone": [
+      "Occupy Wall Street (2011)",
+      "Hong Kong Protests (2019)",
+      "Arab Spring (2010–2012)",
+      "Yellow Vests Movement (2018–2019)"
+    ],
+    "tags": ["Protests", "Social Movements", "Mass Mobilization"],
+    "source": "Wikipedia - List of protests by size / Reuters / BBC",
+    "clarification": "Ranked by the highest credible estimate of total participants. Some estimates vary by source.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Modern History", "Modern Revolutions"]
   }
 ]
