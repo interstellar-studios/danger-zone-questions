@@ -1,0 +1,20 @@
+{
+  "id": "kids-pack-001",
+  "name": "Kids",
+  "description": "Simple, family-friendly places kids know and love",
+  "words": [
+    "Playground",
+    "Toy Store",
+    "Birthday Party",
+    "Theme Park",
+    "Bouncy Castle",
+    "Cinema",
+    "Park",
+    "Nursery",
+    "Sandpit",
+    "Swimming Lesson"
+  ],
+  "isCustom": false,
+  "createdAt": "2025-04-19T15:15:00.000Z",
+  "category": "Locations"
+}
