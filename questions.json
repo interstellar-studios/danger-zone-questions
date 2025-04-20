@@ -2462,5 +2462,90 @@
     "difficulty": 4,
     "category": "History & Civilizations",
     "subcategories": ["Modern History", "Modern Revolutions"]
-  }
+  },
+  {
+    "question": "Top 10 countries with the most Nobel Peace Prize laureates",
+    "answers": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Sweden",
+      "Norway",
+      "Switzerland",
+      "Russia",
+      "India",
+      "South Africa"
+    ],
+    "dangerZone": [
+      "Italy",
+      "Canada",
+      "Japan",
+      "Netherlands"
+    ],
+    "tags": ["Nobel Peace Prize", "Laureates", "Countries"],
+    "source": "Nobel Prize official website",
+    "clarification": "Ranked by the number of Nobel Peace Prize laureates associated with each country.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "History & Civilizations",
+    "subcategories": ["Modern History"]
+  },
+  {
+    "question": "Top 10 most translated political or historical documents",
+    "answers": [
+      "Universal Declaration of Human Rights",
+      "The Bible",
+      "The Quran",
+      "The Communist Manifesto",
+      "The United States Constitution",
+      "The Declaration of Independence",
+      "The Magna Carta",
+      "The Geneva Conventions",
+      "The Charter of the United Nations",
+      "The European Convention on Human Rights"
+    ],
+    "dangerZone": [
+      "The Federalist Papers",
+      "The Napoleonic Code",
+      "The Emancipation Proclamation",
+      "The Balfour Declaration"
+    ],
+    "tags": ["Documents", "Translations", "Political History"],
+    "source": "UNESCO - Most Translated Documents",
+    "clarification": "Ranked by the number of official language translations available for each document.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Other"]
+  },
+  {
+    "question": "Top 10 longest sieges in recorded history",
+    "answers": [
+      "Siege of Candia (1648–1669)",
+      "Siege of Ceuta (1694–1727)",
+      "Siege of Thessalonica (1422–1430)",
+      "Siege of Drepana (249–241 BC)",
+      "Siege of Tyre (586–573 BC)",
+      "Siege of Missolonghi (1825–1826)",
+      "Siege of Leningrad (1941–1944)",
+      "Siege of Sarajevo (1992–1996)",
+      "Siege of Sevastopol (1854–1855)",
+      "Siege of Vicksburg (1863)"
+    ],
+    "dangerZone": [
+      "Siege of Paris (1870–1871)",
+      "Siege of Malta (1565)",
+      "Siege of Jerusalem (70 AD)",
+      "Siege of Vienna (1683)"
+    ],
+    "tags": ["Sieges", "Military History", "Duration"],
+    "source": "Military History Encyclopedia - Longest Sieges",
+    "clarification": "Ranked by the duration of each siege in days.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "History & Civilizations",
+    "subcategories": ["Historical Events", "Wars"]
+  },
 ]
+
