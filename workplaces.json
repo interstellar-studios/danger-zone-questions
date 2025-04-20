@@ -1,0 +1,29 @@
+{
+  "id": "workplaces-pack-001",
+  "name": "Workplaces",
+  "description": "Professional environments with strong role dynamics",
+  "words": [
+    "Investment Bank",
+    "Fire Station",
+    "Factory Floor",
+    "Hospital Ward",
+    "Newsroom",
+    "Construction Site",
+    "Tech Support Call Center",
+    "Police Station",
+    "Post Office",
+    "Restaurant Kitchen",
+    "Hotel Reception",
+    "Retail Store",
+    "Warehouse",
+    "Car Repair Garage",
+    "Classroom",
+    "Airport Control Tower",
+    "Tattoo Studio",
+    "Barbershop",,
+    "Farm"
+  ],
+  "isCustom": false,
+  "createdAt": "2025-04-19T14:45:00.000Z",
+  "category": "Locations'
+}
