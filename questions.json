@@ -1845,7 +1845,7 @@
     "year": 2024,
     "difficulty": 3,
     "category": "Geography & Demographics",
-    "subcategories": ["Infrastructure", "Energy"]
+    "subcategories": ["Infrastructure"]
   },
   {
     "question": "Top 10 countries with the most lakes",
@@ -1901,7 +1901,7 @@
     "year": 2024,
     "difficulty": 2,
     "category": "Geography & Demographics",
-    "subcategories": ["Global Systems", "Technology"]
+    "subcategories": ["Global Systems"]
   },
   {
     "question": "Top 10 countries with the most immigrants per year",
@@ -1957,7 +1957,7 @@
     "year": 2024,
     "difficulty": 3,
     "category": "Geography & Demographics",
-    "subcategories": ["Cultural Events", "National Days"]
+    "subcategories": ["Other"]
   },
   {
     "question": "Top 10 countries with the most undersea internet cables connected (2024)",
@@ -1984,8 +1984,8 @@
     "clarification": "Ranked by the number of unique submarine cable landing points in each country.",
     "year": 2024,
     "difficulty": 3,
-    "category": "Global Systems",
-    "subcategories": ["Infrastructure", "Technology"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Infrastructure"]
   },
   {
     "question": "Top 10 countries with the largest standing armies (2024)",
@@ -2012,8 +2012,8 @@
     "clarification": "Based on number of active military personnel (standing army only).",
     "year": 2024,
     "difficulty": 3,
-    "category": "Geopolitics",
-    "subcategories": ["Military", "Defense"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Geopolitics", "Largest Militaries"]
   },
   {
     "question": "Top 10 countries with the most foreign military bases abroad",
@@ -2040,8 +2040,8 @@
     "clarification": "Ranked by the number of overseas military installations (not domestic bases).",
     "year": 2024,
     "difficulty": 3,
-    "category": "Geopolitics",
-    "subcategories": ["Military", "International Relations"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Geopolitics", "Largest Militaries"]
   },
   {
     "question": "Top 10 most spoken first languages in the world",
@@ -2068,8 +2068,8 @@
     "clarification": "Ranked by native (first-language) speakers, not total speakers.",
     "year": 2024,
     "difficulty": 3,
-    "category": "Language",
-    "subcategories": ["Language Families"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Language", "Official Languages"]
   },
   {
     "question": "Top 10 countries with the highest literacy rates",
@@ -2096,8 +2096,8 @@
     "clarification": "Based on the percentage of the population aged 15 and above who can read and write. 100% values may be rounded from official data.",
     "year": 2024,
     "difficulty": 2,
-    "category": "Human Geography",
-    "subcategories": ["Education", "Demographics"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries"]
   },
   {
     "question": "Top 10 countries with the highest internal migration rates",
@@ -2124,8 +2124,8 @@
     "clarification": "Based on the number of people relocating between regions within a country.",
     "year": 2024,
     "difficulty": 3,
-    "category": "Human Geography",
-    "subcategories": ["Migration Patterns"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Human Geography", "Migration Patterns"]
   },
   {
     "question": "Top 10 countries with highest % of urban population living in slums",
@@ -2152,8 +2152,8 @@
     "clarification": "Percentage of urban population living in slum-like conditions. Ranked by % of urban population affected.",
     "year": 2024,
     "difficulty": 5,
-    "category": "Human Geography",
-    "subcategories": ["Urbanization"]
+    "category": "Geography & Demographics",
+    "subcategories": ["Human Geography", "Urbanization"]
   },
   {
     "question": "Top 10 countries with the most citizens living abroad (emigrants, 2024)",
@@ -2377,7 +2377,7 @@
     "year": 2024,
     "difficulty": 4,
     "category": "History & Civilizations",
-    "subcategories": ["Inventions & Discoveries", "Firsts in History"]
+    "subcategories": ["Other"]
   },
   {
     "question": "Top 10 countries with the most civil wars since 1900",
