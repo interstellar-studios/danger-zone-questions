@@ -1,7 +1,7 @@
 [
   { "name": "basic" },
   { "name": "sports",
-    "category": "new one"},
+    "category": "Locations"},
   { "name": "countries" },
   { "name": "historical-eras" },
   { "name": "cinematic-universes" },
