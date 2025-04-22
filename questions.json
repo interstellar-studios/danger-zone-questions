@@ -2546,5 +2546,146 @@
     "difficulty": 5,
     "category": "History & Civilizations",
     "subcategories": ["Historical Events", "Wars"]
+  },
+  {
+    "question": "Top 10 most populous U.S. states (2024)",
+    "answers": [
+      "California",
+      "Texas",
+      "Florida",
+      "New York",
+      "Pennsylvania",
+      "Illinois",
+      "Ohio",
+      "Georgia",
+      "North Carolina",
+      "Michigan"
+    ],
+    "dangerZone": [
+      "New Jersey",
+      "Virginia",
+      "Washington",
+      "Arizona"
+    ],
+    "tags": ["United States", "States", "Population"],
+    "source": "U.S. Census Bureau (2024 estimates)",
+    "clarification": "Ranked by estimated state population in 2024.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Population"]
+  },
+  {
+    "question": "Top 10 most populous countries in Europe (2024)",
+    "answers": [
+      "Russia",
+      "Germany",
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Spain",
+      "Ukraine",
+      "Poland",
+      "Romania",
+      "Netherlands"
+    ],
+    "dangerZone": [
+      "Belgium",
+      "Greece",
+      "Portugal",
+      "Czech Republic"
+    ],
+    "tags": ["Europe", "Countries", "Population"],
+    "source": "World Population Review / UN Population Division",
+    "clarification": "Ranked by country population as of 2024. Russia is included geographically.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Population"]
+  },
+  {
+    "question": "Top 10 most populous countries in South America (2024)",
+    "answers": [
+      "Brazil",
+      "Colombia",
+      "Argentina",
+      "Peru",
+      "Venezuela",
+      "Chile",
+      "Ecuador",
+      "Bolivia",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "dangerZone": [
+      "Guyana",
+      "Suriname",
+      "French Guiana",
+      "Falkland Islands"
+    ],
+    "tags": ["South America", "Countries", "Population"],
+    "source": "World Population Review / UN Population Division",
+    "clarification": "Ranked by country population as of 2024. Overseas territories listed separately.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Population"]
+  },
+  {
+    "question": "Top 10 most populous countries in Africa (2024)",
+    "answers": [
+      "Nigeria",
+      "Ethiopia",
+      "Egypt",
+      "Democratic Republic of the Congo",
+      "Tanzania",
+      "South Africa",
+      "Kenya",
+      "Uganda",
+      "Sudan",
+      "Algeria"
+    ],
+    "dangerZone": [
+      "Morocco",
+      "Ghana",
+      "Mozambique",
+      "Angola"
+    ],
+    "tags": ["Africa", "Countries", "Population"],
+    "source": "World Population Review / UN Population Division",
+    "clarification": "Based on population estimates for 2024.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Population"]
+  },
+  {
+    "question": "Top 10 most populous countries in Asia (2024)",
+    "answers": [
+      "India",
+      "China",
+      "Indonesia",
+      "Pakistan",
+      "Bangladesh",
+      "Japan",
+      "Philippines",
+      "Vietnam",
+      "Turkey",
+      "Iran"
+    ],
+    "dangerZone": [
+      "Thailand",
+      "Myanmar",
+      "South Korea",
+      "Iraq"
+    ],
+    "tags": ["Asia", "Countries", "Population"],
+    "source": "World Population Review / UN Population Division",
+    "clarification": "Ranked by country population as of 2024. Includes transcontinental countries when majority lies in Asia.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Population"]
   }
 ]
+
