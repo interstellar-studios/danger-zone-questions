@@ -2686,6 +2686,901 @@
     "difficulty": 2,
     "category": "Geography & Demographics",
     "subcategories": ["Countries", "Population"]
-  }
+  },
+  {
+    "question": "Which countries have won the most Nobel Peace Prizes as of 2025?",
+    "answers": [
+      "United States",
+      "United Kingdom",
+      "Germany",
+      "France",
+      "Switzerland",
+      "Sweden",
+      "Japan",
+      "Russia",
+      "Canada",
+      "Austria"
+    ],
+    "dangerZone": [
+      "Australia",
+      "Netherlands",
+      "Belgium",
+      "Italy"
+    ],
+    "tags": ["Nobel", "peace", "awards"],
+    "source": "WorldPopulationReview, WorldAtlas",
+    "clarification": "Counts Nobel Peace Prize laureates (individuals and organisations) by affiliated country up to 2025.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Education & Culture",
+    "subcategories": ["Educational Institutions", "Nobel-Prize Affiliations"]
+  },
+  {
+    "question": "Which universities are ranked highest globally in the QS World University Rankings 2025?",
+    "answers": [
+      "Massachusetts Institute of Technology (MIT)",
+      "Imperial College London",
+      "Stanford University",
+      "University of Oxford",
+      "Harvard University",
+      "University of Cambridge",
+      "ETH Zurich",
+      "National University of Singapore",
+      "University College London",
+      "California Institute of Technology"
+    ],
+    "dangerZone": [
+      "University of Chicago",
+      "Peking University",
+      "University of Pennsylvania",
+      "Cornell University"
+    ],
+    "tags": ["QS rankings", "universities", "education"],
+    "source": "QS World University Rankings 2025 (TopUniversities.com)",
+    "clarification": "Rankings are based on QS’s methodology, including academic reputation, faculty/student ratio, citations, international diversity, and employer reputation.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Education & Culture",
+    "subcategories": ["Educational Institutions", "Global University Rankings"]
+  },
+  {
+    "question": "Which countries have the most UNESCO World Heritage Sites as of 2024?",
+    "answers": [
+      "Italy",
+      "China",
+      "Germany",
+      "France",
+      "Spain",
+      "India",
+      "Mexico",
+      "United Kingdom",
+      "Russia",
+      "Iran"
+    ],
+    "dangerZone": [
+      "United States",
+      "Brazil",
+      "Canada",
+      "Turkey"
+    ],
+    "tags": ["UNESCO", "heritage", "cultural sites"],
+    "source": "UNESCO World Heritage Centre, Statista, Wikipedia",
+    "clarification": "Total number of World Heritage Sites listed by UNESCO, including cultural, natural, and mixed types, as of mid-2024.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Lifestyle & Culture",
+    "subcategories": ["Travel & Tourism", "UNESCO Sites"]
+  },
+  {
+    "question": "Which books have sold the most copies worldwide (excluding religious or ideological texts)?",
+    "answers": [
+      "A Tale of Two Cities",
+      "The Little Prince",
+      "The Lord of the Rings",
+      "Harry Potter and the Philosopher's Stone",
+      "And Then There Were None",
+      "Dream of the Red Chamber",
+      "The Hobbit",
+      "She: A History of Adventure",
+      "Alice's Adventures in Wonderland",
+      "The Da Vinci Code"
+    ],
+    "dangerZone": [
+      "The Alchemist",
+      "The Catcher in the Rye",
+      "The Bridges of Madison County",
+      "One Hundred Years of Solitude"
+    ],
+    "tags": ["books", "bestsellers", "literature"],
+    "source": "Wikipedia: List of best-selling books",
+    "clarification": "Based on Wikipedia estimates as of 2024, excluding religious or ideological texts.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Education & Culture",
+    "subcategories": ["Books & Publishing", "Book Sales"]
+  },
+  {
+    "question": "Which animals are the fastest land mammals in the world?",
+    "answers": [
+      "Cheetah",
+      "Pronghorn",
+      "Springbok",
+      "Thomson's Gazelle",
+      "Quarter Horse",
+      "Lion",
+      "Blue Wildebeest",
+      "Blackbuck",
+      "Greyhound",
+      "Impala"
+    ],
+    "dangerZone": [
+      "Ostrich",
+      "African Wild Dog",
+      "Kangaroo",
+      "Hare"
+    ],
+    "tags": ["animals", "speed", "land mammals"],
+    "source": "Wikipedia: Fastest animals; VisualCapitalist",
+    "clarification": "Top recorded maximum speeds of land mammals, measured in km/h or mph.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Science & Nature",
+    "subcategories": ["Animals"]
+  },
+  {
+    "question": "Which celestial bodies are the largest in our solar system?",
+    "answers": [
+      "Sun",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune",
+      "Earth",
+      "Venus",
+      "Mars",
+      "Ganymede",
+      "Titan"
+    ],
+    "dangerZone": [
+      "Mercury",
+      "Callisto",
+      "Io",
+      "Moon"
+    ],
+    "tags": ["solar system", "planets", "moons", "size"],
+    "source": "Wikipedia: List of Solar System objects by size; NASA",
+    "clarification": "Ranking by mean diameter; includes the Sun, planets, and planets' largest moons.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Science & Nature",
+    "subcategories": ["Space & Astronomy"]
+  },
+  {
+    "question": "Which organs are the heaviest in the human body on average?",
+    "answers": [
+      "Skin",
+      "Liver",
+      "Brain",
+      "Lungs (combined)",
+      "Heart",
+      "Kidneys (combined)",
+      "Spleen",
+      "Pancreas",
+      "Stomach",
+      "Thyroid"
+    ],
+    "dangerZone": [
+      "Gallbladder",
+      "Bladder",
+      "Prostate",
+      "Uterus"
+    ],
+    "tags": ["human anatomy", "biology"],
+    "source": "Science Focus; Healthline; Meridian study",
+    "clarification": "Avg adult weights; lungs and kidneys combined values.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Science & Nature",
+    "subcategories": ["Biology", "Human Anatomy"]
+  },
+  {
+    "question": "Which elements are most abundant in the Earth's crust by mass?",
+    "answers": [
+      "Oxygen",
+      "Silicon",
+      "Aluminum",
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Magnesium",
+      "Potassium",
+      "Titanium",
+      "Hydrogen"
+    ],
+    "dangerZone": [
+      "Carbon",
+      "Sulfur",
+      "Chlorine",
+      "Phosphorus"
+    ],
+    "tags": ["chemistry", "geology", "elements"],
+    "source": "Wikipedia; WorldAtlas; VisualCapitalist",
+    "clarification": "Based on mass percent abundance in Earth’s crust (continental). Very hard—requires detailed geochemical knowledge.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Science & Nature",
+    "subcategories": ["Chemistry", "Chemical Elements"]
+  },
+  {
+    "question": "Which countries produce the most renewable energy in 2024?",
+    "answers": [
+      "China",
+      "United States",
+      "Brazil",
+      "India",
+      "Germany",
+      "Russia",
+      "Japan",
+      "Canada",
+      "Spain",
+      "Australia"
+    ],
+    "dangerZone": [
+      "France",
+      "United Kingdom",
+      "Italy",
+      "Mexico"
+    ],
+    "tags": ["renewable energy", "climate", "energy production"],
+    "source": "International Energy Agency; Statista; REN21 Global Status Report",
+    "clarification": "Based on total renewable energy production (electricity + heat) in 2024, across all technologies (hydro, wind, solar, biomass).",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Science & Nature",
+    "subcategories": ["Earth Science", "Environment"]
+  },
+  {
+    "question": "Which celestial bodies are the brightest in the night sky (excluding the Moon)?",
+    "answers": [
+      "Venus",
+      "Jupiter",
+      "Sirius",
+      "Canopus",
+      "Alpha Centauri",
+      "Arcturus",
+      "Vega",
+      "Capella",
+      "Rigel",
+      "Procyon"
+    ],
+    "dangerZone": [
+      "Betelgeuse",
+      "Saturn",
+      "Antares",
+      "Altair"
+    ],
+    "tags": ["astronomy", "stars", "planets"],
+    "source": "Wikipedia: List of brightest natural objects in the sky",
+    "clarification": "Ranked by average apparent magnitude in the night sky (excluding Sun and Moon)",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Science & Nature",
+    "subcategories": ["Space & Astronomy"]
+  },
+  {
+    "question": "Which movies have grossed the most at the global box office (unadjusted) as of 2025?",
+    "answers": [
+      "Avatar",
+      "Avengers: Endgame",
+      "Avatar: The Way of Water",
+      "Titanic",
+      "Star Wars: Episode VII – The Force Awakens",
+      "Avengers: Infinity War",
+      "Ne Zha 2",
+      "Spider‑Man: No Way Home",
+      "Inside Out 2",
+      "Jurassic World"
+    ],
+    "dangerZone": [
+      "Barbie",
+      "Top Gun: Maverick",
+      "The Super Mario Bros. Movie",
+      "Deadpool & Wolverine"
+    ],
+    "tags": ["box office", "movies", "cinema records"],
+    "source": "Box Office Mojo; The Numbers; Wikipedia",
+    "clarification": "Based on unadjusted global theatrical box office totals through early 2025.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Movies & TV", "Blockbusters"]
+  },
+  {
+    "question": "Which video games have sold the most copies worldwide as of 2024?",
+    "answers": [
+      "Minecraft",
+      "Grand Theft Auto V",
+      "Tetris (EA and variants combined)",
+      "Wii Sports",
+      "PlayerUnknown’s Battlegrounds (PUBG)",
+      "Pokémon Red/Green/Blue/Yellow",
+      "Super Mario Bros.",
+      "Mario Kart 8 Deluxe",
+      "Wii Fit & Wii Fit Plus",
+      "Terraria"
+    ],
+    "dangerZone": [
+      "The Legend of Zelda: Breath of the Wild",
+      "Red Dead Redemption 2",
+      "Call of Duty: Modern Warfare",
+      "Animal Crossing: New Horizons"
+    ],
+    "tags": ["video games", "best-sellers", "gaming"],
+    "source": "Wikipedia: List of best-selling video games",
+    "clarification": "Based on global lifetime sales across platforms as of end‑2024.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Gaming", "Video Games"]
+  },
+  {
+    "question": "Which animated films have grossed the most worldwide (unadjusted) as of early 2025?",
+    "answers": [
+      "Ne Zha 2",
+      "Inside Out 2",
+      "The Lion King (2019)",
+      "Frozen II",
+      "The Super Mario Bros. Movie",
+      "Frozen",
+      "Incredibles 2",
+      "Minions",
+      "Toy Story 4",
+      "Toy Story 3"
+    ],
+    "dangerZone": [
+      "Moana 2",
+      "Despicable Me 3",
+      "Finding Dory",
+      "Zootopia"
+    ],
+    "tags": ["animated films", "box office", "movies"],
+    "source": "Wikipedia: List of highest-grossing animated films",
+    "clarification": "Based on total worldwide theatrical gross figures (unadjusted) up to early 2025.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Movies & TV", "Blockbusters"]
+  },
+  {
+    "question": "Which film franchises have grossed the most worldwide at the global box office?",
+    "answers": [
+      "Marvel Cinematic Universe",
+      "Star Wars",
+      "Wizarding World (Harry Potter & Fantastic Beasts)",
+      "Spider‑Man",
+      "James Bond",
+      "Fast & Furious",
+      "Jurassic Park",
+      "Batman",
+      "Transformers",
+      "Pirates of the Caribbean"
+    ],
+    "dangerZone": [
+      "Avatar",
+      "X‑Men",
+      "The Lord of the Rings",
+      "DC Extended Universe"
+    ],
+    "tags": ["film franchises", "box office"],
+    "source": "Wikipedia: Highest-grossing film franchises; Investopedia; Business Insider",
+    "clarification": "Based on cumulative global box office revenue from all installments in each franchise, as of early 2025.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Movies & TV", "Blockbusters"]
+  },
+  {
+    "question": "Which music artists have won the most Grammy Awards as performing artists as of 2025?",
+    "answers": [
+      "Beyoncé",
+      "Stevie Wonder",
+      "Alison Krauss",
+      "Jay-Z",
+      "Kanye West",
+      "Kendrick Lamar",
+      "Adele",
+      "Taylor Swift",
+      "Aretha Franklin",
+      "Lady Gaga"
+    ],
+    "dangerZone": [
+      "Paul McCartney",
+      "Bruno Mars",
+      "Michael Jackson",
+      "U2"
+    ],
+    "tags": ["music", "Grammy", "records", "artists"],
+    "source": "Recording Academy; Grammy.com milestones; GRAMMY.com news update Feb 2025",
+    "clarification": "Counts only competitive Grammy Awards won by artists (performers), not awards as producers or composers.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Which TV shows have won the most Emmy Awards overall as of 2024?",
+    "answers": [
+      "Saturday Night Live",
+      "Game of Thrones",
+      "Frasier",
+      "The Simpsons",
+      "Hill Street Blues",
+      "Modern Family",
+      "The West Wing",
+      "The Mary Tyler Moore Show",
+      "Breaking Bad",
+      "ER"
+    ],
+    "dangerZone": [
+      "The Sopranos",
+      "Schitt's Creek",
+      "The Crown",
+      "American Crime Story"
+    ],
+    "tags": ["Emmy Awards", "TV records", "series"],
+    "source": "IMDb; Entertainment Weekly; Wikipedia: Primetime Emmy Award records",
+    "clarification": "Based on total Primetime Emmy Awards won by a series through the 2024 ceremonies.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Movies & TV", "Award Shows"]
+  },
+  {
+    "question": "Which films hold the highest IMDb user ratings as of June 2025?",
+    "answers": [
+      "The Shawshank Redemption",
+      "The Godfather",
+      "The Dark Knight",
+      "12 Angry Men",
+      "Schindler's List",
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Pulp Fiction",
+      "The Good, the Bad and the Ugly",
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "dangerZone": [
+      "Fight Club",
+      "Inception",
+      "Forrest Gump",
+      "Star Wars: Episode V – The Empire Strikes Back"
+    ],
+    "tags": ["IMDb", "ratings", "top films"],
+    "source": "IMDb Top 250 list (June 2025)",
+    "clarification": "Based on average user ratings in IMDb’s Top 250 as of June 11, 2025; sorted by rating score.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Movies & TV", "Blockbusters"]
+  },  
+  {
+    "question": "Which individual YouTube channels (run by creators, not corporate/brand channels) have the most subscribers as of June 2025?",
+    "answers": [
+      "MrBeast",
+      "Vlad and Niki",
+      "Like Nastya",
+      "Stokes Twins",
+      "PewDiePie",
+      "CarryMinati",
+      "PANDA BOI",
+      "Mark Rober",
+      "Dude Perfect",
+      "Brent Rivera"
+    ],
+    "dangerZone": [
+      "Khaby Lame",
+      "MatPat",
+      "Ryan's World",
+      "PrestonPlayz"
+    ],
+    "tags": ["YouTube", "influencers", "subscribers", "internet culture"],
+    "source": "Wikipedia: List of most-subscribed YouTube channels; Social Blade; Favikon; news on MrBeast",
+    "clarification": "Data reflects individual/person-run channels only, excluding corporate or brand-owned YouTube channels.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Internet & Social Media", "Influencers"]
+  },
+  {
+    "question": "Which Netflix original series have the highest viewership as of 2024?",
+    "answers": [
+      "Squid Game",
+      "Wednesday",
+      "Dahmer – Monster: The Jeffrey Dahmer Story",
+      "Bridgerton (Season 1)",
+      "The Night Agent",
+      "Stranger Things (Season 4)",
+      "All of Us Are Dead",
+      "The Queen's Gambit",
+      "Fubar",
+      "Lupin (Part 1)"
+    ],
+    "dangerZone": [
+      "The Witcher (Season 1)",
+      "Money Heist (Part 4)",
+      "You (Season 3)",
+      "Emily in Paris (Season 1)"
+    ],
+    "tags": ["Netflix", "TV shows", "streaming", "viewership"],
+    "source": "Netflix Top 10 global viewership charts; Variety; Deadline",
+    "clarification": "Ranked by hours watched globally within first 28 days of release as reported by Netflix.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Movies & TV", "Streaming Trends"]
+  },
+  {
+    "question": "Which TikTok influencers have the most followers as of 2024?",
+    "answers": [
+      "Khaby Lame",
+      "Charli D'Amelio",
+      "Bella Poarch",
+      "Addison Rae",
+      "Zach King",
+      "Dixie D'Amelio",
+      "Spencer X",
+      "Michael Le",
+      "Loren Gray",
+      "Domelipa"
+    ],
+    "dangerZone": [
+      "Baby Ariel",
+      "Avani Gregg",
+      "Noah Beck",
+      "Riyaz Aly"
+    ],
+    "tags": ["TikTok", "social media", "influencers", "followers"],
+    "source": "Wikipedia: List of most-followed TikTok accounts; Influencer Marketing Hub; Social Tracker 2024",
+    "clarification": "Includes only personal/influencer accounts, ranked by total follower count globally.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Internet Culture", "Influencers"]
+  },
+  {
+    "question": "Which albums have sold the most copies worldwide in music history?",
+    "answers": [
+      "Thriller – Michael Jackson",
+      "Back in Black – AC/DC",
+      "The Bodyguard – Whitney Houston / Various Artists",
+      "The Dark Side of the Moon – Pink Floyd",
+      "Their Greatest Hits (1971–1975) – Eagles",
+      "Bat Out of Hell – Meat Loaf",
+      "Hotel California – Eagles",
+      "Come On Over – Shania Twain",
+      "Rumours – Fleetwood Mac",
+      "Saturday Night Fever – Bee Gees / Various Artists"
+    ],
+    "dangerZone": [
+      "Led Zeppelin IV – Led Zeppelin",
+      "21 – Adele",
+      "Millennium – Backstreet Boys",
+      "Jagged Little Pill – Alanis Morissette"
+    ],
+    "tags": ["albums", "music sales", "records", "bestsellers"],
+    "source": "Wikipedia: List of best-selling albums; IFPI; RIAA",
+    "clarification": "Based on certified global sales across all formats, not adjusted for population or revenue.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Awards"]
+  },
+  {
+    "question": "Which cities have the highest cost of living as of 2024?",
+    "answers": [
+      "Singapore",
+      "Zurich",
+      "Geneva",
+      "New York City",
+      "Hong Kong",
+      "Los Angeles",
+      "Tel Aviv",
+      "Paris",
+      "Copenhagen",
+      "San Francisco"
+    ],
+    "dangerZone": [
+      "Oslo",
+      "London",
+      "Tokyo",
+      "Dubai"
+    ],
+    "tags": ["cost of living", "cities", "economy"],
+    "source": "The Economist Intelligence Unit (EIU) Worldwide Cost of Living Report 2024",
+    "clarification": "Based on comparative prices of goods and services across 173 global cities as measured by the EIU.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Cities"]
+  },
+  {
+    "question": "Which religions have the most adherents worldwide in 2024?",
+    "answers": [
+      "Christianity",
+      "Islam",
+      "Hinduism",
+      "Buddhism",
+      "Sikhism",
+      "Judaism",
+      "Jainism",
+      "Shinto",
+      "Taoism",
+      "Zoroastrianism"
+    ],
+    "dangerZone": [
+      "Tenrikyo",
+      "Cao Dai",
+      "Rastafarianism",
+      "Scientology"
+    ],
+    "tags": ["religion", "population", "faiths"],
+    "source": "Pew Research Center; World Religion Database 2024",
+    "clarification": "Only institutionalized religions with significant global populations are included.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Miscellaneous",
+    "subcategories": []
+  },
+  {
+    "question": "Which global organizations have the most member states as of 2025?",
+    "answers": [
+      "UNESCO",
+      "Interpol",
+      "International Telecommunication Union (ITU)",
+      "World Health Organization (WHO)",
+      "Food and Agriculture Organization (FAO)",
+      "United Nations (UN)",
+      "Universal Postal Union (UPU)",
+      "International Monetary Fund (IMF)",
+      "World Bank",
+      "International Atomic Energy Agency (IAEA)"
+    ],
+    "dangerZone": [
+      "World Trade Organization (WTO)",
+      "International Fund for Agricultural Development (IFAD)",
+      "World Intellectual Property Organization (WIPO)",
+      "United Nations Industrial Development Organization (UNIDO)"
+    ],
+    "tags": ["international", "members", "organizations"],
+    "source": "UN.org, IMF.org, FAO.org, WTO.org, UNESCO.org, Interpol.int, IAEA.org, IFAD.org, WIPO.int, UNIDO.org",
+    "clarification": "Includes intergovernmental organizations with the highest number of sovereign state members as of mid-2025.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Global Systems"]
+  },
+  {
+    "question": "Which countries are ranked as the most democratic according to the Democracy Index 2024?",
+    "answers": [
+      "Norway",
+      "Iceland",
+      "Sweden",
+      "New Zealand",
+      "Finland",
+      "Denmark",
+      "Ireland",
+      "Switzerland",
+      "Netherlands",
+      "Taiwan"
+    ],
+    "dangerZone": [
+      "Canada",
+      "Australia",
+      "Germany",
+      "Uruguay"
+    ],
+    "tags": ["democracy", "governance", "political index"],
+    "source": "Economist Intelligence Unit – Democracy Index 2024",
+    "clarification": "Based on EIU's annual Democracy Index, which ranks countries by electoral process, civil liberties, political participation, and functioning of government.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries"]
+  },
+  {
+    "question": "Which passports offer the most visa-free travel in 2025?",
+    "answers": [
+      "Singapore",
+      "Japan",
+      "South Korea",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Ireland",
+      "Italy",
+      "Spain"
+    ],
+    "dangerZone": [
+      "Austria",
+      "Belgium",
+      "Luxembourg",
+      "Netherlands"
+    ],
+    "tags": ["passports", "visa-free", "travel"],
+    "source": "Henley Passport Index 2025 – https://www.henleyglobal.com/passport-index/ranking",
+    "clarification": "Ranked by the number of countries accessible without a visa, based on the Henley Passport Index 2025.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Geography & Demographics",
+    "subcategories": ["Countries", "Borders"]
+  },
+  {
+    "question": "Which fashion brands are the most valuable globally in 2024?",
+    "answers": [
+      "Louis Vuitton",
+      "Nike",
+      "Chanel",
+      "Hermès",
+      "Gucci",
+      "Zara",
+      "Adidas",
+      "Uniqlo",
+      "Dior",
+      "Cartier"
+    ],
+    "dangerZone": [
+      "Rolex",
+      "H&M",
+      "Prada",
+      "Coach"
+    ],
+    "tags": ["fashion", "brand value", "luxury"],
+    "source": "FashionUnited Fashion Brand Value Index 2024",
+    "clarification": "Ranked by estimated global brand value in USD.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Lifestyle & Culture",
+    "subcategories": []
+  },
+  {
+    "question": "Which smartphone brands sold the most units globally in 2024?",
+    "answers": [
+      "Samsung",
+      "Apple",
+      "Xiaomi",
+      "Transsion",
+      "Oppo",
+      "Vivo",
+      "Realme",
+      "Huawei",
+      "Motorola",
+      "Nothing"
+    ],
+    "dangerZone": [
+      "OnePlus",
+      "Google (Pixel)",
+      "Sony",
+      "LG"
+    ],
+    "tags": ["smartphones", "shipments", "market share"],
+    "source": "Canalys; Counterpoint Research; StatCounter; Oberlo",
+    "clarification": "Ranked by total global shipments/unit sales in 2024.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Miscellaneous",
+    "subcategories": []
+  },
+  {
+    "question": "Which airlines ranked in Skytrax’s Top 10 'World's Best Airlines' list in 2025?",
+    "answers": [
+      "Qatar Airways",
+      "Singapore Airlines",
+      "Cathay Pacific",
+      "Emirates",
+      "ANA All Nippon Airways",
+      "Turkish Airlines",
+      "Korean Air",
+      "Air France",
+      "Japan Airlines",
+      "Hainan Airlines"
+    ],
+    "dangerZone": [
+      "Delta Air Lines",
+      "Air Canada",
+      "British Airways",
+      "United Airlines"
+    ],
+    "tags": ["airlines", "Skytrax", "aviation", "travel"],
+    "source": "Skytrax World Airline Awards 2025 official rankings; Travel + Leisure; Skytrax.com",
+    "clarification": "Based on Skytrax’s annual 'World's Best Airlines' Top 10 list for 2025, as voted by global passengers.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Lifestyle & Culture",
+    "subcategories": ["Travel"]
+  },
+  {
+    "question": "Which car brands sold the most vehicles globally in 2024?",
+    "answers": [
+      "Toyota",
+      "Volkswagen",
+      "Honda",
+      "Ford",
+      "BYD",
+      "Chevrolet",
+      "Hyundai",
+      "Nissan",
+      "Kia",
+      "Mercedes‑Benz"
+    ],
+    "dangerZone": [
+      "BMW",
+      "Tesla",
+      "Renault",
+      "Peugeot"
+    ],
+    "tags": ["cars", "sales", "automotive"],
+    "source": "Focus2Move World Car Brand Ranking 2025; Reuters; Wikipedia: automotive manufacturers by production",
+    "clarification": "Based on global light-vehicle sales/registrations (2024 calendar year).",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Lifestyle & Culture",
+    "subcategories": ["Travel"]
+  },
+  {
+    "question": "Which car models are the best-selling of all time worldwide (by total units sold)?",
+    "answers": [
+      "Toyota Corolla",
+      "Ford F‑Series",
+      "Volkswagen Golf",
+      "Volkswagen Beetle",
+      "Honda Civic",
+      "Ford Escort",
+      "Honda Accord",
+      "Ford Model T",
+      "Chevrolet Impala",
+      "Lada Riva"
+    ],
+    "dangerZone": [
+      "Toyota Camry",
+      "BMW 3 Series",
+      "Nissan Sentra",
+      "Hyundai Elantra"
+    ],
+    "tags": ["cars", "all-time sales", "automotive history"],
+    "source": "Wikipedia: List of best-selling automobiles; Focus2Move; Autocar",
+    "clarification": "Based on total global sales across all generations under each model nameplate.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Lifestyle & Culture",
+    "subcategories": ["Travel"]
+  },
+  {
+    "question": "Which social media apps had the most downloads globally in 2024?",
+    "answers": [
+      "TikTok",
+      "Instagram",
+      "Facebook",
+      "WhatsApp",
+      "Telegram",
+      "Threads",
+      "Snapchat",
+      "WhatsApp Business",
+      "YouTube",
+      "Discord"
+    ],
+    "dangerZone": [
+      "Temu",
+      "Messenger",
+      "CapCut",
+      "Signal"
+    ],
+    "tags": ["social media", "app downloads", "tech trends"],
+    "source": "Oberlo; DesignRush; BrandVision; Data.ai Insights",
+    "clarification": "Ranked by total global downloads across iOS & Android in calendar year 2024.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Technology",
+    "subcategories": ["Internet Culture", "Apps"]
+  }      
 ]
-
