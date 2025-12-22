@@ -3918,6 +3918,229 @@
     "difficulty": 3,
     "category": "History & Civilizations",
     "subcategories": ["Cultural History", "Architecture Styles"]
+  },
+  {
+    "question": "Top 10 oldest universities in the world in continuous operation (by founding year)",
+    "answers": [
+      "University of Bologna",
+      "University of Oxford",
+      "University of Salamanca",
+      "University of Paris (Sorbonne)",
+      "University of Cambridge",
+      "University of Padua",
+      "University of Naples Federico II",
+      "University of Siena",
+      "University of Coimbra",
+      "Charles University (Prague)"
+    ],
+    "dangerZone": [
+      "University of Heidelberg",
+      "University of Vienna",
+      "University of Leipzig",
+      "University of Rostock"
+    ],
+    "tags": ["universities", "education", "history"],
+    "source": "Encyclopaedia Britannica; university histories",
+    "clarification": "Ranked by founding year of universities that have remained in continuous operation. Institutions with major historical discontinuities are excluded (e.g. Al-Azhar University, although older by founding date).",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Education & Culture",
+    "subcategories": ["Educational Institutions", "Oldest Universities"]
+  },
+  {
+    "question": "Top 10 oldest universities in the UK (by founding year)",
+    "answers": [
+      "University of Oxford",
+      "University of Cambridge",
+      "University of St Andrews",
+      "University of Glasgow",
+      "University of Aberdeen",
+      "University of Edinburgh",
+      "Durham University",
+      "University of London",
+      "University of Manchester",
+      "University of Birmingham"
+    ],
+    "dangerZone": [
+      "University of Leeds",
+      "University of Bristol",
+      "University of Sheffield",
+      "University of Nottingham"
+    ],
+    "tags": ["UK universities", "education"],
+    "source": "University charters and official histories",
+    "clarification": "Ranked by founding year using commonly cited establishment dates.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Education & Culture",
+    "subcategories": ["Educational Institutions", "Oldest Universities"]
+  },
+  {
+    "question": "Top 10 oldest universities in the United States (by founding year)",
+    "answers": [
+      "Harvard University",
+      "College of William & Mary",
+      "Yale University",
+      "University of Pennsylvania",
+      "Princeton University",
+      "Columbia University",
+      "Brown University",
+      "Rutgers University",
+      "Dartmouth College",
+      "University of Delaware"
+    ],
+    "dangerZone": [
+      "University of Georgia",
+      "University of North Carolina at Chapel Hill",
+      "University of Pittsburgh",
+      "University of South Carolina"
+    ],
+    "tags": ["US universities", "education"],
+    "source": "Encyclopaedia Britannica; official university histories",
+    "clarification": "Ranked by founding year of the institution, not later changes in university status.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Education & Culture",
+    "subcategories": ["Educational Institutions", "Oldest Universities"]
+  },
+  {
+    "question": "Top 10 art museums by annual visitors (most recent full year)",
+    "answers": [
+      "Louvre Museum",
+      "Vatican Museums",
+      "British Museum",
+      "Metropolitan Museum of Art",
+      "Tate Modern",
+      "National Gallery (London)",
+      "Musée d’Orsay",
+      "State Hermitage Museum",
+      "Reina Sofía Museum",
+      "National Palace Museum (Taipei)"
+    ],
+    "dangerZone": [
+      "Prado Museum",
+      "Rijksmuseum",
+      "Acropolis Museum",
+      "Uffizi Gallery"
+    ],
+    "tags": ["art museums", "visitors"],
+    "source": "The Art Newspaper annual visitor survey",
+    "clarification": "Ranked by reported on-site visitor numbers for the most recent full year.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Education & Culture",
+    "subcategories": ["Art & Design", "Museums"]
+  },
+  {
+    "question": "Top 10 most translated books of all time (by number of languages)",
+    "answers": [
+      "The Bible",
+      "The Little Prince",
+      "Pinocchio",
+      "Alice’s Adventures in Wonderland",
+      "Don Quixote",
+      "The Quran",
+      "Chairman Mao’s Quotations",
+      "The Pilgrim’s Progress",
+      "Aesop’s Fables",
+      "Grimm’s Fairy Tales"
+    ],
+    "dangerZone": [
+      "The Lord of the Rings",
+      "Harry Potter and the Philosopher’s Stone",
+      "The Alchemist",
+      "The Adventures of Tintin"
+    ],
+    "tags": ["books", "translation"],
+    "source": "UNESCO Index Translationum",
+    "clarification": "Ranked by number of languages translated into, not copies sold.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Education & Culture",
+    "subcategories": ["Literature", "Most Translated Books"]
+  },
+  {
+    "question": "Top 10 best-selling authors of all time (by total estimated copies sold)",
+    "answers": [
+      "William Shakespeare",
+      "Agatha Christie",
+      "Barbara Cartland",
+      "Danielle Steel",
+      "Harold Robbins",
+      "Georges Simenon",
+      "Enid Blyton",
+      "J.K. Rowling",
+      "Leo Tolstoy",
+      "Sidney Sheldon"
+    ],
+    "dangerZone": [
+      "Stephen King",
+      "Paulo Coelho",
+      "Roald Dahl",
+      "Dr. Seuss"
+    ],
+    "tags": ["authors", "book sales"],
+    "source": "Encyclopaedia Britannica; publisher estimates",
+    "clarification": "Sales figures are estimates due to incomplete historical records.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Education & Culture",
+    "subcategories": ["Literature", "Best-Selling Authors"]
+  },
+  {
+    "question": "Top 10 most performed classical composers",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Johannes Brahms",
+      "Pyotr Ilyich Tchaikovsky",
+      "Richard Strauss",
+      "Antonín Dvořák",
+      "Gustav Mahler",
+      "Giuseppe Verdi",
+      "Jean Sibelius"
+    ],
+    "dangerZone": [
+      "Frédéric Chopin",
+      "Claude Debussy",
+      "Felix Mendelssohn",
+      "Sergei Rachmaninoff"
+    ],
+    "tags": ["classical music", "composers"],
+    "source": "Bachtrack annual classical music statistics",
+    "clarification": "Ranked by number of performances recorded in the most recent Bachtrack annual report.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "Education & Culture",
+    "subcategories": ["Music", "Classical Composers"]
+  },
+  {
+    "question": "Top 10 classical composers by number of symphonies composed",
+    "answers": [
+      "Joseph Haydn",
+      "Wolfgang Amadeus Mozart",
+      "Franz Joseph Ignaz Beck",
+      "Carl Philipp Emanuel Bach",
+      "Johann Christian Bach",
+      "Michael Haydn",
+      "Johann Stamitz",
+      "Václav Pichl",
+      "Franz Xaver Richter",
+      "Franz Schubert"
+    ],
+    "dangerZone": [
+      "Ludwig van Beethoven",
+      "Antonín Dvořák",
+      "Pyotr Ilyich Tchaikovsky",
+      "Gustav Mahler"
+    ],
+    "tags": ["classical music", "symphonies"],
+    "source": "Grove Music Online; Oxford Music Online",
+    "clarification": "Ranked by commonly attributed number of completed symphonies in composer catalogues.",
+    "year": 2024,
+    "difficulty": 5,
+    "category": "Education & Culture",
+    "subcategories": ["Music", "Classical Composers"]
   }
 ]
-
