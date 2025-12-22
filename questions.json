@@ -3750,5 +3750,175 @@
     "difficulty": 3,
     "category": "History & Civilizations",
     "subcategories": ["Other"]
+  },
+  [
+  {
+    "question": "Top 10 largest empires in history by land area at their greatest extent",
+    "answers": [
+      "British Empire",
+      "Mongol Empire",
+      "Russian Empire",
+      "Qing dynasty",
+      "Spanish Empire",
+      "Second French colonial empire",
+      "Abbasid Caliphate",
+      "Umayyad Caliphate",
+      "Yuan dynasty",
+      "United States (territorial peak)"
+    ],
+    "dangerZone": [
+      "Empire of Japan",
+      "Portuguese Empire",
+      "Ottoman Empire",
+      "Achaemenid Empire"
+    ],
+    "tags": ["empires", "land area", "history"],
+    "source": "Wikipedia — List of largest empires",
+    "clarification": "Ranked by maximum territorial extent (land area) at historical peak; estimates vary by source and methodology.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "History & Civilizations",
+    "subcategories": ["Other"]
+  },
+  {
+    "question": "Top 10 most populous cities in ancient history (by estimated peak population)",
+    "answers": [
+      "Rome",
+      "Chang’an",
+      "Baghdad",
+      "Constantinople",
+      "Alexandria",
+      "Antioch",
+      "Babylon",
+      "Kaifeng",
+      "Hangzhou",
+      "Ctesiphon"
+    ],
+    "dangerZone": [
+      "Pataliputra",
+      "Thebes (Egypt)",
+      "Tenochtitlan",
+      "Nineveh"
+    ],
+    "tags": ["cities", "population", "history"],
+    "source": "Chandler & Fox — 3000 Years of Urban Growth (as summarized in reference lists)",
+    "clarification": "Ordered by commonly cited historical-demography estimates of each city's peak population; figures are approximate.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Other"]
+  },
+  {
+    "question": "Top 10 longest-reigning monarchs (sovereign states)",
+    "answers": [
+      "Louis XIV (France)",
+      "Elizabeth II (United Kingdom)",
+      "Rama IX (Thailand)",
+      "Johann II (Liechtenstein)",
+      "K’inich Janaab’ Pakal I (Palenque)",
+      "Franz Joseph I (Austria-Hungary)",
+      "Sobhuza II (Eswatini)",
+      "Queen Victoria (United Kingdom)",
+      "Alfonso XIII (Spain)",
+      "James VI and I (Scotland / England)"
+    ],
+    "dangerZone": [
+      "George III (United Kingdom)",
+      "Peter the Great (Russia)",
+      "Haile Selassie (Ethiopia)",
+      "Willem III (Netherlands)"
+    ],
+    "tags": ["monarchy", "rulers", "reigns"],
+    "source": "Wikipedia — List of longest-reigning monarchs",
+    "clarification": "Ranked by length of reign over sovereign states based on commonly cited reign dates; regencies excluded.",
+    "year": 2024,
+    "difficulty": 4,
+    "category": "History & Civilizations",
+    "subcategories": ["Other"]
+  },
+  {
+    "question": "Top 10 largest ancient engineering projects by physical scale",
+    "answers": [
+      "Great Wall of China",
+      "Grand Canal of China",
+      "Roman road network",
+      "Roman aqueduct systems",
+      "Giza pyramid complex",
+      "Angkor Wat temple complex",
+      "Persian Royal Road",
+      "Canal of the Pharaohs (Nile–Red Sea canal",
+      "Terracotta Army Complex",
+      "Hadrian's Wall"
+    ],
+    "dangerZone": [
+      "Petra",
+      "Trajan's Bridge",
+      "Colosseum",
+      "Parthenon"
+    ],
+    "tags": ["engineering", "architecture", "ancient history"],
+    "source": "UNESCO; Encyclopaedia Britannica",
+    "clarification": "Ordered by broad physical scale (length/extent/overall footprint). This is a scale-based ranking rather than a single standardized metric.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "History & Civilizations",
+    "subcategories": ["Other"]
+  },
+  {
+    "question": "Top 10 oldest capital cities still in use today (by founding date)",
+    "answers": [
+      "Damascus",
+      "Athens",
+      "Rome",
+      "Jerusalem",
+      "Cairo",
+      "Tehran",
+      "Beijing",
+      "Paris",
+      "London",
+      "Lisbon"
+    ],
+    "dangerZone": [
+      "Madrid",
+      "Tokyo",
+      "Vienna",
+      "Berlin"
+    ],
+    "tags": ["capitals", "cities", "history"],
+    "source": "Encyclopaedia Britannica; national historical references",
+    "clarification": "Ranked by commonly cited founding-era dates for the capital city; capital status may have changed across eras but cities remain capitals today.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "History & Civilizations",
+    "subcategories": ["Other"]
+  },
+  {
+    "question": "Top 10 oldest buildings still in continuous use (by construction date)",
+    "answers": [
+      "Pantheon (Rome)",
+      "Hagia Sophia",
+      "Notre-Dame Cathedral",
+      "Westminster Abbey",
+      "St. Peter’s Basilica",
+      "Al-Aqsa Mosque",
+      "Blue Mosque",
+      "St. Mark’s Basilica",
+      "St. Paul’s Cathedral",
+      "Cologne Cathedral"
+    ],
+    "dangerZone": [
+      "Chartres Cathedral",
+      "Milan Cathedral",
+      "Florence Cathedral",
+      "Sagrada Família"
+    ],
+    "tags": ["buildings", "architecture", "religion", "history"],
+    "source": "Encyclopaedia Britannica; official site histories",
+    "clarification": "‘Continuous use’ refers to sustained primary religious/civic function over time; dates refer to initial construction (many sites have later additions/restorations).",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "History & Civilizations",
+    "subcategories": ["Cultural History", "Architecture Styles"]
   }
 ]
+
