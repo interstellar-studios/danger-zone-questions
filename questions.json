@@ -4169,7 +4169,7 @@
     "year": 2025,
     "difficulty": 1,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Artists"]
   },
   {
     "question": "Top 10 most streamed songs on Spotify of all time (as of 2025)",
@@ -4197,7 +4197,7 @@
     "year": 2025,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 most streamed albums on Spotify of all time (as of 2025)",
@@ -4225,7 +4225,7 @@
     "year": 2025,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 most streamed groups on Spotify of all time (as of 2025)",
@@ -4253,7 +4253,7 @@
     "year": 2025,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Artists"]
   },
   {
     "question": "Top 10 most streamed songs released in the 2010s on Spotify (as of 2025)",
@@ -4281,7 +4281,7 @@
     "year": 2025,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 most streamed songs released in the 2020s on Spotify (as of 2025)",
@@ -4309,7 +4309,7 @@
     "year": 2025,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 fastest songs to reach 1 billion Spotify streams (as of 2025)",
@@ -4337,7 +4337,7 @@
     "year": 2025,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 songs with the longest run at number one on the Billboard Hot 100",
@@ -4365,7 +4365,7 @@
     "year": 2024,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 songs with the most total weeks in the Billboard Hot 100 Top 10",
@@ -4393,7 +4393,7 @@
     "year": 2024,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 artists with the most cumulative weeks at number one on the Billboard Hot 100",
@@ -4421,7 +4421,7 @@
     "year": 2024,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Artists"]
   },
   {
     "question": "Top 10 albums with the most weeks at number one on the Billboard 200",
@@ -4449,7 +4449,7 @@
     "year": 2024,
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 most streamed Christmas songs on Spotify of all time",
@@ -4477,7 +4477,7 @@
     "year": 2025,
     "difficulty": 2,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 best-selling music albums of all time (by certified copies sold)",
@@ -4505,7 +4505,7 @@
     "year": 2024,
     "difficulty": 2,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   },
   {
     "question": "Top 10 best-selling singles of all time (by certified copies sold)",
@@ -4531,8 +4531,92 @@
     "source": "IFPI; Guinness World Records",
     "clarification": "Ranked by certified physical and digital single sales worldwide.",
     "year": 2024,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 Spanish-language songs by Spotify streams (as of 2025)",
+    "answers": [
+      "Despacito",
+      "Bailando",
+      "Mi Gente",
+      "Dakiti",
+      "Con Calma",
+      "China",
+      "Felices los 4",
+      "Safaera",
+      "Tití Me Preguntó",
+      "La Canción"
+    ],
+    "dangerZone": [
+      "Hawái",
+      "Provenza",
+      "Yonaguni",
+      "Pepas"
+    ],
+    "tags": ["Spotify", "Streaming", "Spanish music"],
+    "source": "Spotify streaming data compiled by ChartMasters; Wikipedia summaries",
+    "clarification": "Includes songs with predominantly Spanish lyrics, ranked by cumulative Spotify streams as of 2025.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 K-pop songs by Spotify streams (as of 2025)",
+    "answers": [
+      "Dynamite",
+      "Butter",
+      "Boy With Luv",
+      "How You Like That",
+      "Kill This Love",
+      "Pink Venom",
+      "Permission to Dance",
+      "Lalisa",
+      "Money",
+      "Cupid"
+    ],
+    "dangerZone": [
+      "DDU-DU DDU-DU",
+      "Love Dive",
+      "OMG",
+      "Ditto"
+    ],
+    "tags": ["K-pop", "Spotify", "Streaming"],
+    "source": "Spotify streaming data via Wikipedia and Kworb",
+    "clarification": "Includes K-pop acts; songs ranked by cumulative Spotify streams as of 2025.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 songs that reached number one in the most countries (official charts)",
+    "answers": [
+      "Despacito",
+      "Shape of You",
+      "Uptown Funk",
+      "Blinding Lights",
+      "Happy",
+      "I Gotta Feeling",
+      "Call Me Maybe",
+      "Waka Waka (This Time for Africa)",
+      "Gangnam Style",
+      "Rolling in the Deep"
+    ],
+    "dangerZone": [
+      "Cheap Thrills",
+      "Dance Monkey",
+      "Roar",
+      "Bad Romance"
+    ],
+    "tags": ["Charts", "Global hits", "Number one"],
+    "source": "Wikipedia international chart summaries; Official Charts Company; IFPI reports",
+    "clarification": "Ranked by the number of distinct national charts where the song reached number one.",
+    "year": 2024,
     "difficulty": 2,
     "category": "Pop Culture & Entertainment",
-    "subcategories": ["Music Charts & Awards"]
+    "subcategories": ["Music", "Charts"]
   }
 ]
