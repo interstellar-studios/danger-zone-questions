@@ -4618,5 +4618,89 @@
     "difficulty": 2,
     "category": "Pop Culture & Entertainment",
     "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 songs with the most Spotify streams in a single day",
+    "answers": [
+      "Flowers",
+      "Easy On Me",
+      "As It Was",
+      "Seven",
+      "Anti-Hero",
+      "Butter",
+      "Stay",
+      "Drivers License",
+      "Kill Bill",
+      "Espresso"
+    ],
+    "dangerZone": [
+      "Bad Habits",
+      "Pink Venom",
+      "God’s Plan",
+      "Blinding Lights"
+    ],
+    "tags": ["Spotify", "Streaming", "Records"],
+    "source": "Wikipedia — List of Spotify streaming records",
+    "clarification": "Ranked by highest recorded single-day global Spotify stream count for a song, including release-day spikes.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 music videos with the most YouTube views of all time",
+    "answers": [
+      "Baby Shark Dance",
+      "Despacito",
+      "Johny Johny Yes Papa",
+      "Shape of You",
+      "See You Again",
+      "Bath Song",
+      "Uptown Funk",
+      "Gangnam Style",
+      "Wheels on the Bus",
+      "Phonics Song with Two Words"
+    ],
+    "dangerZone": [
+      "Sugar",
+      "Roar",
+      "Counting Stars",
+      "Sorry"
+    ],
+    "tags": ["YouTube", "Music Videos", "Views"],
+    "source": "Wikipedia — List of most-viewed YouTube videos",
+    "clarification": "Includes official music videos ranked by total cumulative YouTube views; children’s music videos are included.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed rappers on Spotify of all time (as of 2025)",
+    "answers": [
+      "Drake",
+      "Eminem",
+      "Kanye West",
+      "Travis Scott",
+      "Post Malone",
+      "Kendrick Lamar",
+      "Future",
+      "Lil Wayne",
+      "J. Cole",
+      "Juice WRLD"
+    ],
+    "dangerZone": [
+      "Nicki Minaj",
+      "21 Savage",
+      "Lil Uzi Vert",
+      "Cardi B"
+    ],
+    "tags": ["Spotify", "Streaming", "Rap", "Hip-Hop"],
+    "source": "ChartMasters; Spotify artist streaming summaries",
+    "clarification": "Ranked by cumulative Spotify streams credited as lead artist. Genre classification follows Spotify and ChartMasters hip-hop/rap designation.",
+    "year": 2025,
+    "difficulty": 2,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
   }
 ]
