@@ -4842,5 +4842,89 @@
     "difficulty": 3,
     "category": "Pop Culture & Entertainment",
     "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed Bollywood songs of all time",
+    "answers": [
+      "Tum Hi Ho",
+      "Kesariya",
+      "Chaiyya Chaiyya",
+      "Kal Ho Naa Ho (Title Track)",
+      "Tujhe Dekha Toh",
+      "Agar Tum Saath Ho",
+      "Kabira",
+      "Raabta",
+      "Galliyan",
+      "Gerua"
+    ],
+    "dangerZone": [
+      "Jai Ho",
+      "Ae Dil Hai Mushkil (Title Track)",
+      "Badtameez Dil",
+      "Dil Diyan Gallan"
+    ],
+    "tags": ["Bollywood", "Hindi cinema", "Streaming"],
+    "source": "YouTube official view counts; Gaana & JioSaavn streaming charts; Film Companion India summaries",
+    "clarification": "Ranked using cross-platform streaming/viewership dominance (YouTube + major India streaming services). Spotify is not used due to catalogue gaps for older Bollywood tracks.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed film scores of all time (soundtrack/score albums)",
+    "answers": [
+      "Titanic",
+      "Interstellar",
+      "The Lion King",
+      "Harry Potter and the Philosopher’s Stone",
+      "Star Wars: A New Hope",
+      "Inception",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Gladiator",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Jurassic Park"
+    ],
+    "dangerZone": [
+      "The Dark Knight",
+      "Avatar",
+      "La La Land",
+      "Schindler’s List"
+    ],
+    "tags": ["Film music", "Soundtracks", "Scores", "Streaming"],
+    "source": "Spotify soundtrack stream data; YouTube official OST uploads; ChartMasters soundtrack aggregations",
+    "clarification": "Ranked by cumulative global streams of official soundtrack/score albums (not individual tracks).",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed composers on Spotify of all time",
+    "answers": [
+      "Hans Zimmer",
+      "John Williams",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "Howard Shore",
+      "Ennio Morricone",
+      "James Horner",
+      "Pyotr Ilyich Tchaikovsky",
+      "Alan Silvestri"
+    ],
+    "dangerZone": [
+      "Max Richter",
+      "Joe Hisaishi",
+      "Danny Elfman",
+      "Ramin Djawadi"
+    ],
+    "tags": ["Composers", "Spotify", "Film music", "Classical"],
+    "source": "Spotify composer profiles; ChartMasters classical & soundtrack stream aggregations",
+    "clarification": "Ranked by cumulative Spotify streams attributed to composer profiles and credited works; includes film and classical composers with major Spotify catalog presence.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
   }
 ]
