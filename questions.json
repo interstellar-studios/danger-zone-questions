@@ -4702,5 +4702,145 @@
     "difficulty": 2,
     "category": "Pop Culture & Entertainment",
     "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed rap albums on Spotify of all time (as of 2025)",
+    "answers": [
+      "Astroworld",
+      "Scorpion",
+      "Beerbongs & Bentleys",
+      "Hollywood’s Bleeding",
+      "DAMN.",
+      "Goodbye & Good Riddance",
+      "Culture",
+      "Legends Never Die",
+      "Views",
+      "The Eminem Show"
+    ],
+    "dangerZone": [
+      "My Turn",
+      "Heroes & Villains",
+      "Nothing Was the Same",
+      "Graduation"
+    ],
+    "tags": ["Spotify", "Rap", "Albums", "Streaming"],
+    "source": "ChartMasters — Spotify album stream totals",
+    "clarification": "Ranked by cumulative Spotify streams across all tracks on each rap album; deluxe editions included.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed rap songs on Spotify of all time (as of 2025)",
+    "answers": [
+      "Sunflower",
+      "God’s Plan",
+      "Rockstar",
+      "Lucid Dreams",
+      "Sicko Mode",
+      "Lose Yourself",
+      "Goosebumps",
+      "In My Feelings",
+      "HUMBLE.",
+      "Mask Off"
+    ],
+    "dangerZone": [
+      "XO Tour Llif3",
+      "Bad and Boujee",
+      "Laugh Now Cry Later",
+      "Praise The Lord (Da Shine)"
+    ],
+    "tags": ["Spotify", "Rap", "Songs", "Streaming"],
+    "source": "Spotify streaming records; Wikipedia summaries",
+    "clarification": "Ranked by cumulative Spotify streams for rap songs where rap is the primary genre.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed rap songs released in the 1990s on Spotify (as of 2025)",
+    "answers": [
+      "Still D.R.E.",
+      "California Love",
+      "Changes",
+      "Big Poppa",
+      "Gin and Juice",
+      "Regulate",
+      "Juicy",
+      "C.R.E.A.M.",
+      "Shook Ones, Pt. II",
+      "Nuthin’ but a 'G' Thang"
+    ],
+    "dangerZone": [
+      "Dear Mama",
+      "Hypnotize",
+      "Ms. Jackson",
+      "Forgot About Dre"
+    ],
+    "tags": ["Spotify", "Rap", "1990s"],
+    "source": "Spotify song-level streaming data filtered by release year",
+    "clarification": "Includes rap songs released between 1990–1999, ranked by cumulative Spotify streams.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed rap songs released in the 2000s on Spotify (as of 2025)",
+    "answers": [
+      "Lose Yourself",
+      "In Da Club",
+      "Gold Digger",
+      "Stan",
+      "Drop It Like It’s Hot",
+      "Yeah!",
+      "Ms. Jackson",
+      "Empire State of Mind",
+      "Stronger",
+      "Candy Shop"
+    ],
+    "dangerZone": [
+      "Crank That (Soulja Boy)",
+      "The Next Episode",
+      "99 Problems",
+      "Jesus Walks"
+    ],
+    "tags": ["Spotify", "Rap", "2000s"],
+    "source": "Spotify streaming data; Wikipedia release-year filtering",
+    "clarification": "Includes rap songs released between 2000–2009, ranked by cumulative Spotify streams.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
+  },
+  {
+    "question": "Top 10 most streamed rap songs released in the 2010s on Spotify (as of 2025)",
+    "answers": [
+      "Sunflower",
+      "God’s Plan",
+      "Rockstar",
+      "Lucid Dreams",
+      "Sicko Mode",
+      "HUMBLE.",
+      "XO Tour Llif3",
+      "In My Feelings",
+      "Mask Off",
+      "Praise The Lord (Da Shine)"
+    ],
+    "dangerZone": [
+      "Black Beatles",
+      "Bad and Boujee",
+      "Goosebumps",
+      "Alright"
+    ],
+    "tags": ["Spotify", "Rap", "2010s"],
+    "source": "Spotify streaming records; ChartMasters decade filtering",
+    "clarification": "Includes rap songs released between 2010–2019, ranked by cumulative Spotify streams.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Charts"]
   }
 ]
