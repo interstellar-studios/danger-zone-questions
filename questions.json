@@ -4142,5 +4142,397 @@
     "difficulty": 5,
     "category": "Education & Culture",
     "subcategories": ["Music", "Classical Composers"]
+  },
+  {
+    "question": "Top 10 most streamed artists on Spotify of all time (as of 2025)",
+    "answers": [
+      "Taylor Swift",
+      "Bad Bunny",
+      "Drake",
+      "The Weeknd",
+      "Ariana Grande",
+      "Ed Sheeran",
+      "Justin Bieber",
+      "Eminem",
+      "Billie Eilish",
+      "Kanye West"
+    ],
+    "dangerZone": [
+      "Post Malone",
+      "BTS",
+      "Coldplay",
+      "Rihanna"
+    ],
+    "tags": ["Spotify", "Streaming", "Artists"],
+    "source": "ChartMasters; Wikipedia — List of most-streamed artists on Spotify",
+    "clarification": "Ranked by cumulative Spotify streams credited as lead artist, excluding featured-only appearances.",
+    "year": 2025,
+    "difficulty": 1,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 most streamed songs on Spotify of all time (as of 2025)",
+    "answers": [
+      "Blinding Lights",
+      "Shape of You",
+      "Starboy",
+      "Someone You Loved",
+      "Sunflower",
+      "As It Was",
+      "Sweater Weather",
+      "One Dance",
+      "Perfect",
+      "Stay"
+    ],
+    "dangerZone": [
+      "Heat Waves",
+      "Believer",
+      "Lovely",
+      "Closer"
+    ],
+    "tags": ["Spotify", "Streaming", "Songs"],
+    "source": "Wikipedia — List of Spotify streaming records",
+    "clarification": "Ranked by cumulative Spotify streams for original song versions.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 most streamed albums on Spotify of all time (as of 2025)",
+    "answers": [
+      "Un Verano Sin Ti",
+      "Starboy",
+      "Divide",
+      "Sour",
+      "After Hours",
+      "SOS",
+      "Hollywood’s Bleeding",
+      "Future Nostalgia",
+      "Dua Lipa",
+      "Beerbongs & Bentleys"
+    ],
+    "dangerZone": [
+      "Astroworld",
+      "When We All Fall Asleep, Where Do We Go?",
+      "Happier Than Ever",
+      "Scorpion"
+    ],
+    "tags": ["Spotify", "Streaming", "Albums"],
+    "source": "ChartMasters; Wikipedia — Spotify streaming records",
+    "clarification": "Ranked by cumulative Spotify streams across all tracks on each album.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 most streamed groups on Spotify of all time (as of 2025)",
+    "answers": [
+      "BTS",
+      "Coldplay",
+      "Imagine Dragons",
+      "Maroon 5",
+      "OneRepublic",
+      "Queen",
+      "Linkin Park",
+      "The Chainsmokers",
+      "Twenty One Pilots",
+      "Jonas Brothers"
+    ],
+    "dangerZone": [
+      "BLACKPINK",
+      "ABBA",
+      "Red Hot Chili Peppers",
+      "Arctic Monkeys"
+    ],
+    "tags": ["Spotify", "Streaming", "Groups"],
+    "source": "ChartMasters; Spotify artist data summaries",
+    "clarification": "Groups only; solo artists excluded. Ranked by total Spotify streams.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 most streamed songs released in the 2010s on Spotify (as of 2025)",
+    "answers": [
+      "Blinding Lights",
+      "Shape of You",
+      "Starboy",
+      "Sweater Weather",
+      "Someone You Loved",
+      "Sunflower",
+      "One Dance",
+      "Perfect",
+      "Closer",
+      "The Night We Met"
+    ],
+    "dangerZone": [
+      "Believer",
+      "Havana",
+      "Thinking Out Loud",
+      "Congratulations"
+    ],
+    "tags": ["Spotify", "Streaming", "2010s"],
+    "source": "Wikipedia — Spotify streaming records (filtered by release year)",
+    "clarification": "Includes songs released between 2010 and 2019, ranked by cumulative Spotify streams.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 most streamed songs released in the 2020s on Spotify (as of 2025)",
+    "answers": [
+      "As It Was",
+      "Stay",
+      "Heat Waves",
+      "Flowers",
+      "Drivers License",
+      "Kill Bill",
+      "Cold Heart (PNAU Remix)",
+      "Save Your Tears",
+      "Good 4 U",
+      "Seven"
+    ],
+    "dangerZone": [
+      "Anti-Hero",
+      "Easy on Me",
+      "Unholy",
+      "Calm Down"
+    ],
+    "tags": ["Spotify", "Streaming", "2020s"],
+    "source": "Wikipedia — Spotify streaming records",
+    "clarification": "Includes songs released from 2020 onward, ranked by cumulative Spotify streams.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 fastest songs to reach 1 billion Spotify streams (as of 2025)",
+    "answers": [
+      "Die With a Smile",
+      "APT.",
+      "Seven",
+      "Flowers",
+      "Espresso",
+      "Stay",
+      "Who",
+      "As It Was",
+      "Birds of a Feather",
+      "Golden"
+    ],
+    "dangerZone": [
+      "Shape of You",
+      "Blinding Lights",
+      "Good 4 U",
+      "Levitating"
+    ],
+    "tags": ["Spotify", "Streaming", "Milestones"],
+    "source": "Wikipedia — List of Spotify streaming records",
+    "clarification": "Ranked by number of days taken to reach 1 billion Spotify streams.",
+    "year": 2025,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 songs with the longest run at number one on the Billboard Hot 100",
+    "answers": [
+      "Old Town Road",
+      "All I Want for Christmas Is You",
+      "Despacito",
+      "One Sweet Day",
+      "As It Was",
+      "Shape of You",
+      "Uptown Funk",
+      "I Gotta Feeling",
+      "We Belong Together",
+      "Macarena"
+    ],
+    "dangerZone": [
+      "Levitating",
+      "Closer",
+      "God’s Plan",
+      "Blurred Lines"
+    ],
+    "tags": ["Billboard", "Charts", "Records"],
+    "source": "Billboard Hot 100 historical chart data",
+    "clarification": "Ranked by total number of weeks spent at number one on the Billboard Hot 100.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 songs with the most total weeks in the Billboard Hot 100 Top 10",
+    "answers": [
+      "Blinding Lights",
+      "Radioactive",
+      "Levitating",
+      "Circles",
+      "As It Was",
+      "Uptown Funk",
+      "Sunflower",
+      "Stay",
+      "Heat Waves",
+      "Counting Stars"
+    ],
+    "dangerZone": [
+      "Rolling in the Deep",
+      "Closer",
+      "Believer",
+      "God’s Plan"
+    ],
+    "tags": ["Billboard", "Charts", "Longevity"],
+    "source": "Billboard Hot 100 historical chart analysis",
+    "clarification": "Ranked by cumulative weeks spent inside the Billboard Hot 100 Top 10.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 artists with the most cumulative weeks at number one on the Billboard Hot 100",
+    "answers": [
+      "Mariah Carey",
+      "The Beatles",
+      "Rihanna",
+      "Drake",
+      "Michael Jackson",
+      "Elvis Presley",
+      "Taylor Swift",
+      "Boyz II Men",
+      "Usher",
+      "Beyoncé"
+    ],
+    "dangerZone": [
+      "Madonna",
+      "Janet Jackson",
+      "Bruno Mars",
+      "Adele"
+    ],
+    "tags": ["Billboard", "Artists", "Charts"],
+    "source": "Billboard chart records",
+    "clarification": "Ranked by total cumulative weeks spent at number one across all songs.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 albums with the most weeks at number one on the Billboard 200",
+    "answers": [
+      "West Side Story (1961 Soundtrack)",
+      "My Fair Lady (1964 Soundtrack)",
+      "Thriller",
+      "South Pacific (1958 Soundtrack)",
+      "The Sound of Music",
+      "Calypso",
+      "Please Hammer, Don’t Hurt ’Em",
+      "Purple Rain",
+      "Born in the U.S.A.",
+      "21"
+    ],
+    "dangerZone": [
+      "Rumours",
+      "Abbey Road",
+      "1989",
+      "Hotel California"
+    ],
+    "tags": ["Billboard", "Albums", "Charts"],
+    "source": "Billboard 200 historical records",
+    "clarification": "Ranked by total number of weeks spent at number one on the Billboard 200.",
+    "year": 2024,
+    "difficulty": 3,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 most streamed Christmas songs on Spotify of all time",
+    "answers": [
+      "All I Want for Christmas Is You",
+      "Last Christmas",
+      "Rockin’ Around the Christmas Tree",
+      "Jingle Bell Rock",
+      "It’s Beginning to Look a Lot Like Christmas",
+      "Santa Tell Me",
+      "Mistletoe",
+      "Feliz Navidad",
+      "Do They Know It’s Christmas?",
+      "Happy Xmas (War Is Over)"
+    ],
+    "dangerZone": [
+      "Let It Snow! Let It Snow! Let It Snow!",
+      "White Christmas",
+      "Wonderful Christmastime",
+      "Christmas (Baby Please Come Home)"
+    ],
+    "tags": ["Spotify", "Christmas", "Seasonal"],
+    "source": "Spotify seasonal streaming data; Wikipedia summaries",
+    "clarification": "Ranked by cumulative Spotify streams for Christmas-themed songs.",
+    "year": 2025,
+    "difficulty": 2,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 best-selling music albums of all time (by certified copies sold)",
+    "answers": [
+      "Thriller",
+      "Back in Black",
+      "The Dark Side of the Moon",
+      "The Bodyguard",
+      "Their Greatest Hits (1971–1975)",
+      "Hotel California",
+      "Come On Over",
+      "Rumours",
+      "Saturday Night Fever",
+      "Led Zeppelin IV"
+    ],
+    "dangerZone": [
+      "Bad",
+      "Abbey Road",
+      "Bat Out of Hell",
+      "21"
+    ],
+    "tags": ["Albums", "Sales", "Music"],
+    "source": "IFPI; RIAA; Wikipedia — best-selling albums",
+    "clarification": "Ranked by certified global sales, not including unverified estimates.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
+  },
+  {
+    "question": "Top 10 best-selling singles of all time (by certified copies sold)",
+    "answers": [
+      "White Christmas",
+      "Candle in the Wind 1997",
+      "Silent Night",
+      "Rock Around the Clock",
+      "I Will Always Love You",
+      "We Are the World",
+      "Everything I Do (I Do It for You)",
+      "Hey Jude",
+      "Call Me Maybe",
+      "Physical"
+    ],
+    "dangerZone": [
+      "My Heart Will Go On",
+      "Last Christmas",
+      "Billie Jean",
+      "Poker Face"
+    ],
+    "tags": ["Singles", "Sales", "Music"],
+    "source": "IFPI; Guinness World Records",
+    "clarification": "Ranked by certified physical and digital single sales worldwide.",
+    "year": 2024,
+    "difficulty": 2,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music Charts & Awards"]
   }
 ]
