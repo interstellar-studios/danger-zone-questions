@@ -4926,5 +4926,930 @@
     "difficulty": 5,
     "category": "Pop Culture & Entertainment",
     "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Drake songs on Spotify (as of December 2025)",
+    "answers": [
+      "One Dance",
+      "God's Plan",
+      "Passionfruit",
+      "Work",
+      "Hotline Bling",
+      "MIA (feat. Drake)",
+      "In My Feelings",
+      "Nice For What",
+      "Life Is Good (feat. Drake)",
+      "Going Bad (feat. Drake)"
+    ],
+    "dangerZone": [
+      "Love Me",
+      "Yes Indeed",
+      "Nonstop",
+      "Jimmy Cooks (feat. 21 Savage)"
+    ],
+    "tags": ["Spotify", "Streaming", "Drake"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Taylor Swift songs on Spotify (as of December 2025)",
+    "answers": [
+      "Cruel Summer",
+      "Blank Space",
+      "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "Anti-Hero",
+      "Lover",
+      "cardigan",
+      "Shake It Off",
+      "august",
+      "Style",
+      "Don’t Blame Me"
+    ],
+    "dangerZone": [
+      "Look What You Made Me Do",
+      "Delicate",
+      "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "Wildest Dreams"
+    ],
+    "tags": ["Spotify", "Streaming", "Taylor Swift"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Bad Bunny songs on Spotify (as of December 2025)",
+    "answers": [
+      "DÁKITI",
+      "LA CANCIÓN",
+      "Me Porto Bonito",
+      "Tití Me Preguntó",
+      "I Like It",
+      "Ojitos Lindos",
+      "Callaita",
+      "No Me Conoce - Remix",
+      "Yonaguni",
+      "Efecto"
+    ],
+    "dangerZone": [
+      "MIA",
+      "Moscow Mule",
+      "un x100to",
+      "Te Boté - Remix"
+    ],
+    "tags": ["Spotify", "Streaming", "Bad Bunny"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed The Weeknd songs on Spotify (as of December 2025)",
+    "answers": [
+      "Blinding Lights",
+      "Starboy",
+      "Die For You",
+      "The Hills",
+      "Save Your Tears",
+      "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "Call Out My Name",
+      "I Feel It Coming",
+      "Can't Feel My Face",
+      "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track"
+    ],
+    "dangerZone": [
+      "Earned It (Fifty Shades Of Grey)",
+      "Creepin'",
+      "Stargirl Interlude",
+      "I Was Never There"
+    ],
+    "tags": ["Spotify", "Streaming", "The Weeknd"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Justin Bieber songs on Spotify (as of December 2025)",
+    "answers": [
+      "STAY (with Justin Bieber)",
+      "Love Yourself",
+      "bad guy",
+      "Let Me Love You",
+      "Sorry",
+      "Ghost",
+      "I Don't Care",
+      "What Do You Mean?",
+      "Peaches (feat. Daniel Caesar & Giveon)",
+      "Despacito - Remix"
+    ],
+    "dangerZone": [
+      "Cold Water",
+      "Baby",
+      "Beauty And A Beat",
+      "Love Me"
+    ],
+    "tags": ["Spotify", "Streaming", "Justin Bieber"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Ariana Grande songs on Spotify (as of December 2025)",
+    "answers": [
+      "7 rings",
+      "thank u, next",
+      "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+      "One Last Time",
+      "Into You",
+      "Side To Side",
+      "we can't be friends (wait for your love)",
+      "positions",
+      "Bang Bang",
+      "no tears left to cry"
+    ],
+    "dangerZone": [
+      "Dangerous Woman",
+      "Santa Tell Me",
+      "Stuck with U (with Justin Bieber)",
+      "Love Me Harder"
+    ],
+    "tags": ["Spotify", "Streaming", "Ariana Grande"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Ed Sheeran songs on Spotify (as of December 2025)",
+    "answers": [
+      "Shape of You",
+      "Perfect",
+      "Photograph",
+      "Thinking out Loud",
+      "I Don't Care",
+      "Bad Habits",
+      "Shivers",
+      "Castle on the Hill",
+      "Galway Girl",
+      "Beautiful People (feat. Khalid)"
+    ],
+    "dangerZone": [
+      "Happier",
+      "The A Team",
+      "Bam Bam (feat. Ed Sheeran)",
+      "I See Fire"
+    ],
+    "tags": ["Spotify", "Streaming", "Ed Sheeran"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Travis Scott songs on Spotify (as of December 2025)",
+    "answers": [
+      "goosebumps",
+      "SICKO MODE",
+      "HIGHEST IN THE ROOM",
+      "BUTTERFLY EFFECT",
+      "FE!N (feat. Playboi Carti)",
+      "ZEZE (feat. Travis Scott & Offset)",
+      "Fair Trade (with Travis Scott)",
+      "Trance (with Travis Scott & Young Thug)",
+      "Love Galore (feat. Travis Scott)",
+      "Open Arms (feat. Travis Scott)"
+    ],
+    "dangerZone": [
+      "Goosebumps - Remix",
+      "I KNOW ?",
+      "THE SCOTTS",
+      "OUT WEST (feat. Young Thug)"
+    ],
+    "tags": ["Spotify", "Streaming", "Travis Scott"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Eminem songs on Spotify (as of December 2025)",
+    "answers": [
+      "Without Me",
+      "Lose Yourself",
+      "Till I Collapse",
+      "The Real Slim Shady",
+      "Mockingbird",
+      "Love The Way You Lie",
+      "Godzilla (feat. Juice WRLD)",
+      "Smack That",
+      "Stan",
+      "The Monster"
+    ],
+    "dangerZone": [
+      "Superman",
+      "Not Afraid",
+      "Rap God",
+      "Beautiful"
+    ],
+    "tags": ["Spotify", "Streaming", "Eminem"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Kanye West songs on Spotify (as of December 2025)",
+    "answers": [
+      "Heartless",
+      "Ni**as In Paris",
+      "Stronger",
+      "Flashing Lights",
+      "Gold Digger",
+      "Father Stretch My Hands Pt. 1",
+      "FourFiveSeconds",
+      "Bound 2",
+      "POWER",
+      "Runaway"
+    ],
+    "dangerZone": [
+      "I Wonder",
+      "All Falls Down",
+      "American Boy",
+      "Homecoming"
+    ],
+    "tags": ["Spotify", "Streaming", "Kanye West"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Rihanna songs on Spotify (as of December 2025)",
+    "answers": [
+      "We Found Love",
+      "This Is What You Came For",
+      "Umbrella",
+      "Love The Way You Lie",
+      "Love On The Brain",
+      "Diamonds",
+      "Needed Me",
+      "Stay",
+      "Only Girl (In The World)",
+      "Work"
+    ],
+    "dangerZone": [
+      "S&M",
+      "Don't Stop The Music",
+      "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "The Monster"
+    ],
+    "tags": ["Spotify", "Streaming", "Rihanna"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Billie Eilish songs on Spotify (as of December 2025)",
+    "answers": [
+      "lovely (with Khalid)",
+      "BIRDS OF A FEATHER",
+      "bad guy",
+      "when the party's over",
+      "ocean eyes",
+      "everything i wanted",
+      "WILDFLOWER",
+      "Happier Than Ever",
+      "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "idontwannabeyouanymore"
+    ],
+    "dangerZone": [
+      "i love you",
+      "Bored",
+      "bellyache",
+      "bury a friend"
+    ],
+    "tags": ["Spotify", "Streaming", "Billie Eilish"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Kendrick Lamar songs on Spotify (as of December 2025)",
+    "answers": [
+      "HUMBLE.",
+      "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "Money Trees",
+      "LOVE. FEAT. ZACARI.",
+      "Not Like Us",
+      "DNA.",
+      "luther (with sza)",
+      "Pray For Me (with Kendrick Lamar)",
+      "PRIDE.",
+      "family ties (with Kendrick Lamar)"
+    ],
+    "dangerZone": [
+      "Don't Wanna Know (feat. Kendrick Lamar)",
+      "Swimming Pools (Drank)",
+      "Alright",
+      "King Kunta"
+    ],
+    "tags": ["Spotify", "Streaming", "Kendrick Lamar"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Bruno Mars songs on Spotify (as of December 2025)",
+    "answers": [
+      "Die With A Smile",
+      "Just the Way You Are",
+      "Locked out of Heaven",
+      "When I Was Your Man",
+      "That's What I Like",
+      "Uptown Funk (feat. Bruno Mars)",
+      "APT.",
+      "Talking to the Moon",
+      "24K Magic",
+      "Grenade"
+    ],
+    "dangerZone": [
+      "Young, Wild & Free (feta. Bruno Mars)",
+      "Leave The Door Open",
+      "Marry You",
+      "It Will Rain"
+    ],
+    "tags": ["Spotify", "Streaming", "Bruno Mars"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed BTS songs on Spotify (as of December 2025)",
+    "answers": [
+      "Dynamite",
+      "My Universe",
+      "Butter",
+      "Boy With Luv (feat. Halsey)",
+      "Left and Right (Feat. Jung Kook of BTS)",
+      "FAKE LOVE",
+      "Life Goes On",
+      "Permission to Dance",
+      "DNA",
+      "Euphoria"
+    ],
+    "dangerZone": [
+      "Blood Sweat & Tears",
+      "Spring Day",
+      "Run BTS",
+      "IDOL"
+    ],
+    "tags": ["Spotify", "Streaming", "BTS"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Coldplay songs on Spotify (as of December 2025)",
+    "answers": [
+      "Yellow",
+      "Something Just Like This",
+      "Viva La Vida",
+      "The Scientist",
+      "A Sky Full of Stars",
+      "Fix You",
+      "Hymn for the Weekend",
+      "Sparks",
+      "Paradise",
+      "My Universe"
+    ],
+    "dangerZone": [
+      "Adventure of a Lifetime",
+      "Clocks",
+      "Magic",
+      "Hymn for the Weekend - Seeb Remix"
+    ],
+    "tags": ["Spotify", "Streaming", "Coldplay"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Arijit Singh songs on Spotify (as of December 2025)",
+    "answers": [
+      "Kesariya",
+      "Agar Tum Saath Ho (From \"Tamasha\")",
+      "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+      "Apna Bana Le",
+      "Shayad",
+      "Chaleya (From \"Jawan\")",
+      "Heeriye (feat. Arijit Singh)",
+      "Tum Hi Ho",
+      "Humdard (From \"Ek Villain\")",
+      "Satranga (From \"ANIMAL\")"
+    ],
+    "dangerZone": [
+      "Sajni (From \"Laapataa Ladies\")",
+      "Mast Magan (From \"2 States\")",
+      "Pal",
+      "Khairiyat"
+    ],
+    "tags": ["Spotify", "Streaming", "Arijit Singh", "Bollywood"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Adele songs on Spotify (as of December 2025)",
+    "answers": [
+      "Someone Like You",
+      "Easy On Me",
+      "Rolling in the Deep",
+      "Set Fire to the Rain",
+      "Hello",
+      "When We Were Young",
+      "Make You Feel My Love",
+      "Send My Love (To Your New Lover)",
+      "Skyfall",
+      "Love In The Dark"
+    ],
+    "dangerZone": [
+      "Chasing Pavements",
+      "All I Ask",
+      "Water Under the Bridge",
+      "Oh My God"
+    ],
+    "tags": ["Spotify", "Streaming", "Adele"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed 2Pac songs on Spotify (as of December 2025)",
+    "answers": [
+      "California Love - Original Version",
+      "Hit 'Em Up - Single Version",
+      "Ambitionz Az A Ridah",
+      "All Eyez On Me (ft. Big Syke)",
+      "Changes",
+      "Do For Love",
+      "Hail Mary",
+      "Dear Mama",
+      "Keep Ya Head Up",
+      "2 Of Amerikaz Most Wanted"
+    ],
+    "dangerZone": [
+      "Ghetto Gospel",
+      "I Get Around",
+      "How Do U Want It",
+      "Brenda's Got a Baby"
+    ],
+    "tags": ["Spotify", "Streaming", "2Pac", "Rap"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Arctic Monkeys songs on Spotify (as of December 2025)",
+    "answers": [
+      "I Wanna Be Yours",
+      "Do I Wanna Know?",
+      "505",
+      "Why'd You Only Call Me When You're High?",
+      "R U Mine?",
+      "Fluorescent Adolescent",
+      "No. 1 Party Anthem",
+      "Snap Out Of It",
+      "Arabella",
+      "I Bet You Look Good On The Dancefloor"
+    ],
+    "dangerZone": [
+      "When The Sun Goes Down",
+      "Knee Socks",
+      "Mardy Bum",
+      "Teddy Picker"
+    ],
+    "tags": ["Spotify", "Streaming", "Arctic Monkeys"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Maroon 5 songs on Spotify (as of December 2025)",
+    "answers": [
+      "Payphone",
+      "Memories",
+      "Maps",
+      "Sugar",
+      "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "She Will Be Loved - Radio Mix",
+      "Girls Like You (feat. Cardi B) - Cardi B Version",
+      "Animals",
+      "This Love",
+      "What Lovers Do (feat. SZA)"
+    ],
+    "dangerZone": [
+      "One More Night",
+      "Don't Wanna Know (feat. Kendrick Lamar)",
+      "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "Cold (feat. Future)"
+    ],
+    "tags": ["Spotify", "Streaming", "Maroon 5"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Metro Boomin songs on Spotify (as of December 2025)",
+    "answers": [
+      "Ric Flair Drip (with Metro Boomin)",
+      "Creepin' (with The Weeknd & 21 Savage)",
+      "Too Many Nights (feat. Don Toliver & with Future)",
+      "Space Cadet (feat. Gunna)",
+      "Trance (with Travis Scott & Young Thug)",
+      "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "Like That",
+      "Runnin",
+      "Glock In My Lap",
+      "10 Freaky Girls (with 21 Savage)"
+    ],
+    "dangerZone": [
+      "Type Shit",
+      "X (feat. Future)",
+      "Overdue (with Travis Scott)",
+      "Rich Nigga Shit (feat. Young Thug)"
+    ],
+    "tags": ["Spotify", "Streaming", "Metro Boomin", "Rap"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed One Direction songs on Spotify (as of December 2025)",
+    "answers": [
+      "Night Changes",
+      "Story of My Life",
+      "What Makes You Beautiful",
+      "Drag Me Down",
+      "Perfect",
+      "Steal My Girl",
+      "18",
+      "You & I",
+      "Best Song Ever",
+      "Little Things"
+    ],
+    "dangerZone": [
+      "History",
+      "They Don't Know About Us",
+      "Right Now",
+      "Kiss You"
+    ],
+    "tags": ["Spotify", "Streaming", "One Direction"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Queen songs on Spotify (as of December 2025)",
+    "answers": [
+      "Bohemian Rhapsody - Remastered 2011",
+      "Don't Stop Me Now - Remastered 2011",
+      "Another One Bites The Dust - Remastered 2011",
+      "Under Pressure - Remastered 2011",
+      "We Will Rock You - Remastered 2011",
+      "Crazy Little Thing Called Love - Remastered 2011",
+      "Somebody To Love - Remastered 2011",
+      "Killer Queen - Remastered 2011",
+      "We Are The Champions - Remastered 2011",
+      "I Want To Break Free - Remastered 2011"
+    ],
+    "dangerZone": [
+      "Radio Ga Ga - Remastered 2011",
+      "Love Of My Life - Remastered 2011",
+      "The Show Must Go On - Remastered 2011",
+      "You're My Best Friend - Remastered 2011"
+    ],
+    "tags": ["Spotify", "Streaming", "Queen"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Michael Jackson songs on Spotify (as of December 2025)",
+    "answers": [
+      "Billie Jean",
+      "Beat It",
+      "Smooth Criminal - 2012 Remaster",
+      "Thriller",
+      "Rock With You",
+      "Don't Stop 'Til You Get Enough",
+      "The Way You Make Me Feel",
+      "Man in the Mirror",
+      "Don’t Matter To Me (with Michael Jackson)",
+      "P.Y.T. (Pretty Young Thing)"
+    ],
+    "dangerZone": [
+      "Chicago",
+      "They Don't Care About Us",
+      "Remember the Time",
+      "Black or White"
+    ],
+    "tags": ["Spotify", "Streaming", "Michael Jackson"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed The Beatles songs on Spotify (as of December 2025)",
+    "answers": [
+      "Here Comes The Sun - Remastered 2009",
+      "Come Together - Remastered 2009",
+      "Let It Be - Remastered 2009",
+      "Yesterday - Remastered 2009",
+      "Hey Jude - 2015 Mix",
+      "Twist And Shout - Remastered 2009",
+      "Blackbird - Remastered 2009",
+      "In My Life - Remastered 2009",
+      "I Want To Hold Your Hand - Remastered 2009",
+      "Something - Remastered 2009"
+    ],
+    "dangerZone": [
+      "Help! - Remastered 2009",
+      "Eleanor Rigby - Remastered 2009",
+      "While My Guitar Gently Weeps - Remastered 2009",
+      "Ob-La-Di, Ob-La-Da - Remastered 2009"
+    ],
+    "tags": ["Spotify", "Streaming", "The Beatles"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Madonna songs on Spotify (as of December 2025)",
+    "answers": [
+      "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "Like a Prayer",
+      "Material Girl",
+      "La Isla Bonita",
+      "Hung Up",
+      "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "Like a Virgin",
+      "Vogue",
+      "Holiday",
+      "Frozen"
+    ],
+    "dangerZone": [
+      "Crazy for You",
+      "Papa Don't Preach",
+      "Into the Groove",
+      "Music"
+    ],
+    "tags": ["Spotify", "Streaming", "Madonna"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed D-Block Europe songs on Spotify (as of December 2025)",
+    "answers": [
+      "Prada",
+      "Overseas",
+      "Darling",
+      "Ferrari Horses",
+      "UFO",
+      "Kitchen Kings",
+      "Make You Smile",
+      "Prada (feat. D-Block Europe) - Valexus Remix",
+      "Home P*ssy",
+      "nASSty"
+    ],
+    "dangerZone": [
+      "Pakistan",
+      "Tonight (feat. D-Block Europe & OBOY)",
+      "Elegant & Gang",
+      "Desire"
+    ],
+    "tags": ["Spotify", "Streaming", "D-Block Europe"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Dave songs on Spotify (as of December 2025)",
+    "answers": [
+      "Sprinter",
+      "Location (feat. Burna Boy)",
+      "Starlight",
+      "Clash (feat. Stormzy)",
+      "Thiago Silva",
+      "Funky Friday",
+      "Screwface Capital",
+      "Professor X",
+      "UK Rap",
+      "No Words"
+    ],
+    "dangerZone": [
+      "Verdansk",
+      "Nothing On You (feat. Paulo Londra & Dave)",
+      "Trojan Horse",
+      "Streatham"
+    ],
+    "tags": ["Spotify", "Streaming", "Dave", "UK Rap"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Hans Zimmer tracks on Spotify (as of December 2025)",
+    "answers": [
+      "Cornfield Chase",
+      "Time",
+      "Now We Are Free - From \"Gladiator\" Soundtrack",
+      "He's a Pirate - From \"Pirates of the Caribbean: The Curse Of the Black Pearl\"/Score",
+      "Day One (Interstellar Theme)",
+      "Honor Him",
+      "Elysium",
+      "Mountains",
+      "This Land",
+      "S.T.A.Y."
+    ],
+    "dangerZone": [
+      "Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack",
+      "Tennessee",
+      "Drink Up Me Hearties Yo Ho",
+      "Dream Is Collapsing"
+    ],
+    "tags": ["Spotify", "Streaming", "Hans Zimmer", "Film Music"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes tracks where the artist appears as a credited contributor.",
+    "year": 2025,
+    "difficulty": 5,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Ludovico Einaudi tracks on Spotify (as of December 2025)",
+    "answers": [
+      "Experience",
+      "Nuvole Bianche",
+      "Una Mattina",
+      "Divenire",
+      "Fly",
+      "Le Onde",
+      "Primavera",
+      "Adieux",
+      "Wind Song",
+      "The Tree"
+    ],
+    "dangerZone": [
+      "I Giorni",
+      "Elegy For The Arctic - Remastered 2020",
+      "Luminous",
+      "Natural Light"
+    ],
+    "tags": ["Spotify", "Streaming", "Ludovico Einaudi"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes tracks where the artist appears as a credited contributor.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed EsDeeKid songs on Spotify (as of December 2025)",
+    "answers": [
+      "Phantom",
+      "4 Raws",
+      "LV Sandals",
+      "Cali Man",
+      "Century",
+      "Rottweiler",
+      "Mist",
+      "Panic",
+      "Palaces",
+      "Tartan"
+    ],
+    "dangerZone": [
+      "5am",
+      "Prague",
+      "Apathy",
+      "Ferragamo"
+    ],
+    "tags": ["Spotify", "Streaming", "EsDeeKid"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
+  },
+  {
+    "question": "Top 10 most streamed Lady Gaga songs on Spotify (as of December 2025)",
+    "answers": [
+      "Die With A Smile",
+      "Shallow - Radio Edit",
+      "Poker Face",
+      "Always Remember Us This Way",
+      "Bad Romance",
+      "Just Dance",
+      "Rain On Me (with Ariana Grande)",
+      "Judas",
+      "Telephone",
+      "Million Reasons"
+    ],
+    "dangerZone": [
+      "Paparazzi",
+      "Born This Way",
+      "Bloody Mary",
+      "Applause"
+    ],
+    "tags": ["Spotify", "Streaming", "Lady Gaga"],
+    "source": "Kworb",
+    "clarification": "Ranked by Spotify streams as of December 2025. This list includes songs where the artist appears as a featured credited performer.",
+    "year": 2025,
+    "difficulty": 4,
+    "category": "Pop Culture & Entertainment",
+    "subcategories": ["Music", "Artists"]
   }
 ]
+
